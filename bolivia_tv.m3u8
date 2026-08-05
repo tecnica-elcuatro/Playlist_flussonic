@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://geo.dailymotion.com/
-#EXTINF:-1 tvg-id="st_1785868722" tvg-name="Bolivia TV" tvg-logo="" group-title="General",Bolivia TV
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1280000
 https://live2.eu-north-1a.cf.dmcdn.net/sec2(SF47hVRAYYQswVrhIcSSVItISr2UAWIiBfxuyt7ajAPfDpHuNSrIInCS3_xo1NRV6wIA6jHQuPw09SB61D6E6C53O-rjVjs8we_-zCfWN4_-iMf51HQOuVCLCrCIer2N)/cloud/3/x9nzqpo/d/live-380.m3u8?sec=_JTyXR9egXuZRqBubCcCn_7iEMk5wFa3ZCP1g8lZYgdtfosU_oTgOGk-X3Upo-vhPKs1WHd6aEjUvlFHBp70YA#cell=lcf2-eu-north-1a
