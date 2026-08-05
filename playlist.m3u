@@ -25,7 +25,7 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1785959128/ei/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net/
 #EXTINF:-1 tvg-id="st_1785868590" tvg-name="America TV" tvg-logo="" group-title="General",America TV
-https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/c3aba3e9-c2b4-455b-b1d6-6bbbcdab452a:SCL2/master.m3u8
+https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/caacfea4-423a-4fd3-83ee-e09702763a6c:SCL2/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://geo.dailymotion.com/
 #EXTINF:-1 tvg-id="st_1785868722" tvg-name="Bolivia TV" tvg-logo="" group-title="General",Bolivia TV
