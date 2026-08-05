@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vmf.edge-apps.net/
+#EXTINF:-1 tvg-id="st_1785868590" tvg-name="America TV" tvg-logo="" group-title="General",America TV
+https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/c3aba3e9-c2b4-455b-b1d6-6bbbcdab452a:SCL2/master.m3u8
