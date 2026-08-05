@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="st_1785868819" tvg-name="Bolivision" tvg-logo="" group-title="General",Bolivision
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1280000
 https://d135ohnuotzzyo.cloudfront.net/index_2.m3u8
