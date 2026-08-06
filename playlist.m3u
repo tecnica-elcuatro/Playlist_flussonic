@@ -29,7 +29,7 @@ https://unlimited1-us.dps.live/carastv/carastv.smil/carastv/livestream1/chunks.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://geo.dailymotion.com/
 #EXTINF:-1 tvg-id="st_1785950054" tvg-name="Bolivia TV" tvg-logo="" group-title="General",Bolivia TV
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(NKqmR-6ogaZ_0_7BfudcJJw0HDAE3YzB2reIv0uSVQqlYa22y46jmhuaJ9yezWHStQIwjuf3fFor2rnuegNhb2hnLr5k7QTMSqLvQSSPQ74ns_wZZ3c48LouEUPQTshU)/cloud/3/x9nzqpo/d/live-380.m3u8?sec=_JTyXR9egXuZRqBubCcCn7qPE5uovKOJl5huvOph7QBcsCQ-arIXt1MfiuRWUEWdLzNwKHlb41aq6gQSTIIKwA#cell=lcf2-eu-north-1a
+https://cdndirector.dailymotion.com/cdn/live/video/x9nzqpo.m3u8?sec=_JTyXR9egXuZRqBubCcCn1DuD9kzNqMrkUolE0Skz-9wMWf21zvopCK3_5To52OInKKqL6vRvuBlpgfvwoRBBQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="st_1785950192" tvg-name="Bolivision" tvg-logo="" group-title="General",Bolivision
 https://d135ohnuotzzyo.cloudfront.net/index.m3u8
