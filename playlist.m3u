@@ -27,7 +27,7 @@ https://unlimited1-us.dps.live/carastv/carastv.smil/carastv/livestream1/chunks.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://geo.dailymotion.com/
 #EXTINF:-1 tvg-id="st_1785950054" tvg-name="Bolivia TV" tvg-logo="" group-title="General",Bolivia TV
-https://cdndirector.dailymotion.com/cdn/live/video/x9nzqpo.m3u8?sec=_JTyXR9egXuZRqBubCcCn1UIZmOX1CYH-sBK05v1DixI0fYr8V5JpraBuKLepWM3J9tJNGUvXw0ws_9zhP4O4Q
+https://cdndirector.dailymotion.com/cdn/live/video/x9nzqpo.m3u8?sec=_JTyXR9egXuZRqBubCcCnxyjOZUgdjOdykneV5EPuWAMfAPPGve2FlBM5snTdyZ-RnaXeVQaHrQJ4HNqsRWQVw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="st_1785950192" tvg-name="Bolivision" tvg-logo="" group-title="General",Bolivision
 https://d135ohnuotzzyo.cloudfront.net/index_2.m3u8
