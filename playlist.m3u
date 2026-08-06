@@ -25,10 +25,6 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786004119/ei/
 #EXTINF:-1 tvg-id="st_1785949516" tvg-name="Caras TV" tvg-logo="" group-title="General",Caras TV
 https://unlimited1-us.dps.live/carastv/carastv.smil/carastv/livestream1/chunks.m3u8?nimblesessionid=654393110
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://geo.dailymotion.com/
-#EXTINF:-1 tvg-id="st_1785950054" tvg-name="Bolivia TV" tvg-logo="" group-title="General",Bolivia TV
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(XVY2nIaYYInoCzucdOYVzHjRaGJFGzVBxdnrSWWeJsYT14L9uGAFLkXwvxdSIYNV94bB6_sOwAf5ASSd4jsfRJ2P9alB4JWaTqs1hl-W6uDRdWpChOn296R4xwVMz4pY)/cloud/3/x9nzqpo/d/live-380.m3u8?sec=_JTyXR9egXuZRqBubCcCn7W1nM0oAcehnkMYilyoQ6svJrJtr4Ha6nOrre__t1Ip7j5PVUlHB93caYtila3o8w#cell=lcf2-eu-north-1a
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="st_1785950192" tvg-name="Bolivision" tvg-logo="" group-title="General",Bolivision
 https://d135ohnuotzzyo.cloudfront.net/index_2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
