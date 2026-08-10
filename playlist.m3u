@@ -67,3 +67,7 @@ https://estate-encouraged-winning-peninsula.trycloudflare.com/proxy_stream/st_17
 #EXTVLCOPT:http-referrer=https://www.ciudad.com.ar/
 #EXTINF:-1 tvg-id="st_ciudad_magazine" tvg-name="Ciudad Magazine" tvg-logo="https://bestleague.world/img/ciudad.webp" group-title="Entretenimiento",Ciudad Magazine
 https://estate-encouraged-winning-peninsula.trycloudflare.com/proxy_stream/st_ciudad_magazine.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/
+#EXTINF:-1 tvg-id="st_1786388178" tvg-name="Fox Sports 3" tvg-logo="" group-title="General",Fox Sports 3
+https://estate-encouraged-winning-peninsula.trycloudflare.com/proxy_stream/st_1786388178.m3u8
