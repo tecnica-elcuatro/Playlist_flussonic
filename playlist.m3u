@@ -67,3 +67,7 @@ https://estate-encouraged-winning-peninsula.trycloudflare.com/proxy_stream/st_ci
 #EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/
 #EXTINF:-1 tvg-id="st_1786388178" tvg-name="Fox Sports 3" tvg-logo="" group-title="General",Fox Sports 3
 https://estate-encouraged-winning-peninsula.trycloudflare.com/proxy_stream/st_1786388178.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/
+#EXTINF:-1 tvg-id="st_1786388368" tvg-name="Discovery H&H" tvg-logo="" group-title="General",Discovery H&H
+https://estate-encouraged-winning-peninsula.trycloudflare.com/proxy_stream/st_1786388368.m3u8
