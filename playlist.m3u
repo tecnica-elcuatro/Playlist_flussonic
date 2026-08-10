@@ -3,6 +3,9 @@
 https://rubber-annotated-early-acoustic.trycloudflare.com/proxy_stream/st_1785947006.m3u8
 #EXTINF:-1 tvg-id="st_1785947448" tvg-name="Cronica" tvg-logo="https://i.ytimg.com/vi/hw4uHyct4vg/maxresdefault.jpg" group-title="General",Cronica
 https://rubber-annotated-early-acoustic.trycloudflare.com/proxy_stream/st_1785947448.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="st_1785956789" tvg-name="Canal 26" tvg-logo="" group-title="General",Canal 26
+https://rubber-annotated-early-acoustic.trycloudflare.com/proxy_stream/st_1785956789.m3u8
 #EXTINF:-1 tvg-id="st_1785947633" tvg-name="C5N" tvg-logo="https://i.ytimg.com/vi/j6oh4Kqz3UM/maxresdefault.jpg" group-title="General",C5N
 https://rubber-annotated-early-acoustic.trycloudflare.com/proxy_stream/st_1785947633.m3u8
 #EXTINF:-1 tvg-id="st_1785947908" tvg-name="TN" tvg-logo="https://i.ytimg.com/vi/cb12KmMMDJA/maxresdefault.jpg" group-title="General",TN
@@ -13,9 +16,6 @@ https://rubber-annotated-early-acoustic.trycloudflare.com/proxy_stream/st_178594
 https://rubber-annotated-early-acoustic.trycloudflare.com/proxy_stream/st_1785948131.m3u8
 #EXTINF:-1 tvg-id="st_1785948688" tvg-name="Canal 7" tvg-logo="https://i.ytimg.com/vi/U6B-mlnL2tg/maxresdefault.jpg" group-title="General",Canal 7
 https://rubber-annotated-early-acoustic.trycloudflare.com/proxy_stream/st_1785948688.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="st_1785956789" tvg-name="Canal 26" tvg-logo="" group-title="General",Canal 26
-https://rubber-annotated-early-acoustic.trycloudflare.com/proxy_stream/st_1785956789.m3u8
 #EXTINF:-1 tvg-id="st_1785948739" tvg-name="Canal 4" tvg-logo="https://i.ytimg.com/vi/p0LtEMx4BrA/maxresdefault.jpg" group-title="General",Canal 4
 https://rubber-annotated-early-acoustic.trycloudflare.com/proxy_stream/st_1785948739.m3u8
 #EXTINF:-1 tvg-id="st_1785948938" tvg-name="Canal 13" tvg-logo="https://i.ytimg.com/vi/gbz9TgxOT1Q/maxresdefault.jpg" group-title="General",Canal 13
