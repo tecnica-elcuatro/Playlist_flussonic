@@ -50,3 +50,5 @@ https://material-losing-quantities-nat.trycloudflare.com/proxy_stream/st_1786049
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="st_1786369168" tvg-name="ESPN 4 Prueba" tvg-logo="" group-title="General",ESPN 4 Prueba
 https://material-losing-quantities-nat.trycloudflare.com/proxy_stream/st_1786369168.m3u8
+#EXTINF:-1 tvg-id="st_1786378000" tvg-name="TYC SPORTS" tvg-logo="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.mustmobile.tycmundial%26hl%3Des_PE&ved=0CBYQjRxqFwoTCND34Lu4lpYDFQAAAAAdAAAAABBO&opi=89978449" group-title="General",TYC SPORTS
+https://material-losing-quantities-nat.trycloudflare.com/proxy_stream/st_1786378000.m3u8
