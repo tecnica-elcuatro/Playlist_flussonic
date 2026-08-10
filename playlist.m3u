@@ -27,6 +27,9 @@ https://material-losing-quantities-nat.trycloudflare.com/proxy_stream/st_1785949
 #EXTINF:-1 tvg-id="st_1785949516" tvg-name="Caras TV" tvg-logo="" group-title="General",Caras TV
 https://material-losing-quantities-nat.trycloudflare.com/proxy_stream/st_1785949516.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="st_1785956789" tvg-name="Canal 26" tvg-logo="" group-title="General",Canal 26
+https://material-losing-quantities-nat.trycloudflare.com/proxy_stream/st_1785956789.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://geo.dailymotion.com/
 #EXTINF:-1 tvg-id="st_1785950054" tvg-name="Bolivia TV" tvg-logo="" group-title="General",Bolivia TV
 https://material-losing-quantities-nat.trycloudflare.com/proxy_stream/st_1785950054.m3u8
@@ -42,9 +45,6 @@ https://material-losing-quantities-nat.trycloudflare.com/proxy_stream/st_1785951
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="st_1785956575" tvg-name="8.TV Publica" tvg-logo="" group-title="General",8.TV Publica
 https://material-losing-quantities-nat.trycloudflare.com/proxy_stream/st_1785956575.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="st_1785956789" tvg-name="Canal 26" tvg-logo="" group-title="General",Canal 26
-https://material-losing-quantities-nat.trycloudflare.com/proxy_stream/st_1785956789.m3u8
 #EXTINF:-1 tvg-id="st_1786049464" tvg-name="Test YT" tvg-logo="" group-title="Test",Test YT
 https://material-losing-quantities-nat.trycloudflare.com/proxy_stream/st_1786049464.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
