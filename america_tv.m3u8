@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=1280000
-https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/425f7495-8d3e-410c-a7d9-0ad831b1a12d:DLS/master.m3u8
+https://192.168.3.37:8000/proxy_stream/st_1785949190.m3u8
