@@ -47,3 +47,6 @@ https://craft-tension-responses-inherited.trycloudflare.com/proxy_stream/st_1785
 https://craft-tension-responses-inherited.trycloudflare.com/proxy_stream/st_1785956789.m3u8
 #EXTINF:-1 tvg-id="st_1786049464" tvg-name="Test YT" tvg-logo="" group-title="Test",Test YT
 https://craft-tension-responses-inherited.trycloudflare.com/proxy_stream/st_1786049464.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="st_1786369168" tvg-name="ESPN 4 Prueba" tvg-logo="" group-title="General",ESPN 4 Prueba
+https://craft-tension-responses-inherited.trycloudflare.com/proxy_stream/st_1786369168.m3u8
