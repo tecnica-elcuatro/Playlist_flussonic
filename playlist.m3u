@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="st_1785947006" tvg-name="A24" tvg-logo="https://i.ytimg.com/vi/ArKbAx1K-2U/maxresdefault.jpg" group-title="General",A24
+#EXTINF:-1 tvg-id="st_1785947006" tvg-name="1.A24" tvg-logo="https://i.ytimg.com/vi/ArKbAx1K-2U/maxresdefault.jpg" group-title="General",1.A24
 https://material-losing-quantities-nat.trycloudflare.com/proxy_stream/st_1785947006.m3u8
 #EXTINF:-1 tvg-id="st_1785947448" tvg-name="Cronica" tvg-logo="https://i.ytimg.com/vi/hw4uHyct4vg/maxresdefault.jpg" group-title="General",Cronica
 https://material-losing-quantities-nat.trycloudflare.com/proxy_stream/st_1785947448.m3u8
