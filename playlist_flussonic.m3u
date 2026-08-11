@@ -1,0 +1,91 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="st_1785947006" tvg-name="A24" tvg-logo="https://i.ytimg.com/vi/ArKbAx1K-2U/maxresdefault.jpg" group-title="General",A24
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/a24.m3u8
+#EXTINF:-1 tvg-id="st_1785947448" tvg-name="Cronica" tvg-logo="https://i.ytimg.com/vi/hw4uHyct4vg/maxresdefault.jpg" group-title="General",Cronica
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/cronica.m3u8
+#EXTINF:-1 tvg-id="st_1785956789" tvg-name="Canal 26" tvg-logo="" group-title="General",Canal 26
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/canal_26.m3u8
+#EXTINF:-1 tvg-id="st_1785947633" tvg-name="C5N" tvg-logo="https://i.ytimg.com/vi/j6oh4Kqz3UM/maxresdefault.jpg" group-title="General",C5N
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/c5n.m3u8
+#EXTINF:-1 tvg-id="st_1785947908" tvg-name="TN" tvg-logo="https://i.ytimg.com/vi/cb12KmMMDJA/maxresdefault.jpg" group-title="General",TN
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/tn.m3u8
+#EXTINF:-1 tvg-id="st_1785947971" tvg-name="LN+" tvg-logo="https://i.ytimg.com/vi/FEWZjXJ7M0c/maxresdefault.jpg" group-title="General",LN+
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/ln.m3u8
+#EXTINF:-1 tvg-id="st_1785948131" tvg-name="Argentina 12" tvg-logo="https://i.ytimg.com/vi/21UP3XoRIBU/hqdefault.jpg?v=6a60c834" group-title="General",Argentina 12
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/argentina_12.m3u8
+#EXTINF:-1 tvg-id="st_1785948688" tvg-name="Canal 7" tvg-logo="https://i.ytimg.com/vi/U6B-mlnL2tg/maxresdefault.jpg" group-title="General",Canal 7
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/canal_7.m3u8
+#EXTINF:-1 tvg-id="st_1785956575" tvg-name="TV Publica" tvg-logo="" group-title="General",TV Publica
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/tv_publica.m3u8
+#EXTINF:-1 tvg-id="st_1785948739" tvg-name="Canal 4" tvg-logo="https://i.ytimg.com/vi/p0LtEMx4BrA/maxresdefault.jpg" group-title="General",Canal 4
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/canal_4.m3u8
+#EXTINF:-1 tvg-id="st_1786452512" tvg-name="Canal 13" tvg-logo="" group-title="General",Canal 13
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/canal_13.m3u8
+#EXTINF:-1 tvg-id="st_1785949190" tvg-name="America TV" tvg-logo="" group-title="General",America TV
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/america_tv.m3u8
+#EXTINF:-1 tvg-id="st_1785949318" tvg-name="Canal 9" tvg-logo="https://i.ytimg.com/vi/e4VpCP8KWLY/maxresdefault.jpg" group-title="General",Canal 9
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/canal_9.m3u8
+#EXTINF:-1 tvg-id="st_1786452297" tvg-name="Fox Sports 3" tvg-logo="" group-title="General",Fox Sports 3
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/fox_sports_3.m3u8
+#EXTINF:-1 tvg-id="st_1786452173" tvg-name="TyC Sports" tvg-logo="" group-title="General",TyC Sports
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/tyc_sports.m3u8
+#EXTINF:-1 tvg-id="st_1786452115" tvg-name="ESPN" tvg-logo="" group-title="General",ESPN
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/espn.m3u8
+#EXTINF:-1 tvg-id="st_1786452074" tvg-name="ESPN 2" tvg-logo="" group-title="General",ESPN 2
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/espn_2.m3u8
+#EXTINF:-1 tvg-id="st_1786451900" tvg-name="ESPN 4" tvg-logo="" group-title="General",ESPN 4
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/espn_4.m3u8
+#EXTINF:-1 tvg-id="st_1786451488" tvg-name="Disney Channel" tvg-logo="" group-title="General",Disney Channel
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/disney_channel.m3u8
+#EXTINF:-1 tvg-id="st_1786451410" tvg-name="Cartoon Network" tvg-logo="" group-title="General",Cartoon Network
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/cartoon_network.m3u8
+#EXTINF:-1 tvg-id="st_1786450777" tvg-name="Tooncast" tvg-logo="" group-title="General",Tooncast
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/tooncast.m3u8
+#EXTINF:-1 tvg-id="st_1786450671" tvg-name="Cinecanal" tvg-logo="" group-title="General",Cinecanal
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/cinecanal.m3u8
+#EXTINF:-1 tvg-id="st_1786450610" tvg-name="Cinemax" tvg-logo="" group-title="General",Cinemax
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/cinemax.m3u8
+#EXTINF:-1 tvg-id="st_1786450499" tvg-name="Golden" tvg-logo="" group-title="General",Golden
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/golden.m3u8
+#EXTINF:-1 tvg-id="st_1786449357" tvg-name="Star Channel" tvg-logo="" group-title="General",Star Channel
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/star_channel.m3u8
+#EXTINF:-1 tvg-id="st_1786450399" tvg-name="TNT" tvg-logo="" group-title="General",TNT
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/tnt.m3u8
+#EXTINF:-1 tvg-id="st_1786450344" tvg-name="Space" tvg-logo="" group-title="General",Space
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/space.m3u8
+#EXTINF:-1 tvg-id="st_1786448812" tvg-name="AMC" tvg-logo="" group-title="General",AMC
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/amc.m3u8
+#EXTINF:-1 tvg-id="st_1786449478" tvg-name="Studio Universal" tvg-logo="" group-title="General",Studio Universal
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/studio_universal.m3u8
+#EXTINF:-1 tvg-id="st_1786449426" tvg-name="FX" tvg-logo="" group-title="General",FX
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/fx.m3u8
+#EXTINF:-1 tvg-id="st_1786449276" tvg-name="Universal Channel" tvg-logo="" group-title="General",Universal Channel
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/universal_channel.m3u8
+#EXTINF:-1 tvg-id="st_1786449179" tvg-name="Sony Channel" tvg-logo="" group-title="General",Sony Channel
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/sony_channel.m3u8
+#EXTINF:-1 tvg-id="st_1786448736" tvg-name="AXN" tvg-logo="" group-title="General",AXN
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/axn.m3u8
+#EXTINF:-1 tvg-id="st_1786448563" tvg-name="TNT Series" tvg-logo="" group-title="General",TNT Series
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/tnt_series.m3u8
+#EXTINF:-1 tvg-id="st_1786448092" tvg-name="Canal de las Estrellas" tvg-logo="" group-title="General",Canal de las Estrellas
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/canal_de_las_estrellas.m3u8
+#EXTINF:-1 tvg-id="st_1785949516" tvg-name="Caras TV" tvg-logo="" group-title="General",Caras TV
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/caras_tv.m3u8
+#EXTINF:-1 tvg-id="st_1786448464" tvg-name="AMC Series" tvg-logo="" group-title="General",AMC Series
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/amc_series.m3u8
+#EXTINF:-1 tvg-id="st_1786447346" tvg-name="History" tvg-logo="" group-title="General",History
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/history.m3u8
+#EXTINF:-1 tvg-id="st_1786447437" tvg-name="History 2" tvg-logo="" group-title="General",History 2
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/history_2.m3u8
+#EXTINF:-1 tvg-id="st_1786450160" tvg-name="Discovery Channel" tvg-logo="" group-title="General",Discovery Channel
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/discovery_channel.m3u8
+#EXTINF:-1 tvg-id="st_1786388368" tvg-name="Discovery H&H" tvg-logo="" group-title="General",Discovery H&H
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/discovery_h_h.m3u8
+#EXTINF:-1 tvg-id="st_1785950054" tvg-name="Bolivia TV" tvg-logo="" group-title="General",Bolivia TV
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/bolivia_tv.m3u8
+#EXTINF:-1 tvg-id="st_1785950192" tvg-name="Bolivision" tvg-logo="" group-title="General",Bolivision
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/bolivision.m3u8
+#EXTINF:-1 tvg-id="st_1785951727" tvg-name="EWTN" tvg-logo="" group-title="General",EWTN
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/ewtn.m3u8
+#EXTINF:-1 tvg-id="st_1785951789" tvg-name="Canal Luz" tvg-logo="https://i.ytimg.com/vi/YpyQFCk7oYc/maxresdefault.jpg" group-title="General",Canal Luz
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/canal_luz.m3u8
