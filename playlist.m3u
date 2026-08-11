@@ -74,6 +74,10 @@ https://comics-catalogue-fair-invite.trycloudflare.com/proxy_stream/st_178645061
 #EXTINF:-1 tvg-id="st_1786450499" tvg-name="Golden" tvg-logo="" group-title="General",Golden
 https://comics-catalogue-fair-invite.trycloudflare.com/proxy_stream/st_1786450499.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/
+#EXTINF:-1 tvg-id="st_1786452297" tvg-name="Fox Sports 3" tvg-logo="" group-title="General",Fox Sports 3
+https://comics-catalogue-fair-invite.trycloudflare.com/proxy_stream/st_1786452297.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/
 #EXTINF:-1 tvg-id="st_1786449357" tvg-name="Star Channel" tvg-logo="" group-title="General",Star Channel
 https://comics-catalogue-fair-invite.trycloudflare.com/proxy_stream/st_1786449357.m3u8
@@ -101,10 +105,6 @@ https://comics-catalogue-fair-invite.trycloudflare.com/proxy_stream/st_178644942
 #EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/
 #EXTINF:-1 tvg-id="st_1786449276" tvg-name="Universal Channel" tvg-logo="" group-title="General",Universal Channel
 https://comics-catalogue-fair-invite.trycloudflare.com/proxy_stream/st_1786449276.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/
-#EXTINF:-1 tvg-id="st_1786452297" tvg-name="Fox Sports 3" tvg-logo="" group-title="General",Fox Sports 3
-https://comics-catalogue-fair-invite.trycloudflare.com/proxy_stream/st_1786452297.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/
 #EXTINF:-1 tvg-id="st_1786449179" tvg-name="Sony Channel" tvg-logo="" group-title="General",Sony Channel
