@@ -119,3 +119,7 @@ https://comics-catalogue-fair-invite.trycloudflare.com/proxy_stream/st_178595178
 #EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/
 #EXTINF:-1 tvg-id="st_1786450344" tvg-name="Space" tvg-logo="" group-title="General",Space
 https://comics-catalogue-fair-invite.trycloudflare.com/proxy_stream/st_1786450344.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/
+#EXTINF:-1 tvg-id="st_1786450399" tvg-name="TNT" tvg-logo="" group-title="General",TNT
+https://comics-catalogue-fair-invite.trycloudflare.com/proxy_stream/st_1786450399.m3u8
