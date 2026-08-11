@@ -47,6 +47,10 @@ https://again-arkansas-treasury-social.trycloudflare.com/proxy_stream/st_1786378
 https://again-arkansas-treasury-social.trycloudflare.com/proxy_stream/st_1786448812.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/
+#EXTINF:-1 tvg-id="st_1786449426" tvg-name="FX" tvg-logo="" group-title="General",FX
+https://again-arkansas-treasury-social.trycloudflare.com/proxy_stream/st_1786449426.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/
 #EXTINF:-1 tvg-id="st_1786449357" tvg-name="Star Channel" tvg-logo="" group-title="General",Star Channel
 https://again-arkansas-treasury-social.trycloudflare.com/proxy_stream/st_1786449357.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -69,10 +73,6 @@ https://again-arkansas-treasury-social.trycloudflare.com/proxy_stream/st_1786448
 #EXTVLCOPT:http-referrer=https://channel01-onlymex.akamaized.net/
 #EXTINF:-1 tvg-id="st_1786448092" tvg-name="Canal de las Estrellas" tvg-logo="" group-title="General",Canal de las Estrellas
 https://again-arkansas-treasury-social.trycloudflare.com/proxy_stream/st_1786448092.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/
-#EXTINF:-1 tvg-id="st_1786449426" tvg-name="FX" tvg-logo="" group-title="General",FX
-https://again-arkansas-treasury-social.trycloudflare.com/proxy_stream/st_1786449426.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://unlimited1-saopaulo.dps.live/
 #EXTINF:-1 tvg-id="st_1785949516" tvg-name="Caras TV" tvg-logo="" group-title="General",Caras TV
