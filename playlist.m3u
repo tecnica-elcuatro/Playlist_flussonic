@@ -95,6 +95,10 @@ https://comics-catalogue-fair-invite.trycloudflare.com/proxy_stream/st_178644846
 https://comics-catalogue-fair-invite.trycloudflare.com/proxy_stream/st_1786447346.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/
+#EXTINF:-1 tvg-id="st_1786450399" tvg-name="TNT" tvg-logo="" group-title="General",TNT
+https://comics-catalogue-fair-invite.trycloudflare.com/proxy_stream/st_1786450399.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/
 #EXTINF:-1 tvg-id="st_1786447437" tvg-name="History 2" tvg-logo="" group-title="General",History 2
 https://comics-catalogue-fair-invite.trycloudflare.com/proxy_stream/st_1786447437.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -119,7 +123,3 @@ https://comics-catalogue-fair-invite.trycloudflare.com/proxy_stream/st_178595019
 https://comics-catalogue-fair-invite.trycloudflare.com/proxy_stream/st_1785951727.m3u8
 #EXTINF:-1 tvg-id="st_1785951789" tvg-name="Canal Luz" tvg-logo="https://i.ytimg.com/vi/YpyQFCk7oYc/maxresdefault.jpg" group-title="General",Canal Luz
 https://comics-catalogue-fair-invite.trycloudflare.com/proxy_stream/st_1785951789.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/
-#EXTINF:-1 tvg-id="st_1786450399" tvg-name="TNT" tvg-logo="" group-title="General",TNT
-https://comics-catalogue-fair-invite.trycloudflare.com/proxy_stream/st_1786450399.m3u8
