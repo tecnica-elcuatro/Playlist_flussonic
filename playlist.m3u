@@ -38,6 +38,10 @@ https://comics-catalogue-fair-invite.trycloudflare.com/proxy_stream/st_178604946
 #EXTINF:-1 tvg-id="st_1786378000" tvg-name="TYC SPORTS" tvg-logo="" group-title="General",TYC SPORTS
 https://comics-catalogue-fair-invite.trycloudflare.com/proxy_stream/st_1786378000.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/
+#EXTINF:-1 tvg-id="st_1786451900" tvg-name="ESPN 4" tvg-logo="" group-title="General",ESPN 4
+https://comics-catalogue-fair-invite.trycloudflare.com/proxy_stream/st_1786451900.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/
 #EXTINF:-1 tvg-id="st_1786451488" tvg-name="Disney Channel" tvg-logo="" group-title="General",Disney Channel
 https://comics-catalogue-fair-invite.trycloudflare.com/proxy_stream/st_1786451488.m3u8
@@ -49,10 +53,6 @@ https://comics-catalogue-fair-invite.trycloudflare.com/proxy_stream/st_178645141
 #EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/
 #EXTINF:-1 tvg-id="st_1786450777" tvg-name="Tooncast" tvg-logo="" group-title="General",Tooncast
 https://comics-catalogue-fair-invite.trycloudflare.com/proxy_stream/st_1786450777.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com/
-#EXTINF:-1 tvg-id="st_1786451900" tvg-name="ESPN 4" tvg-logo="" group-title="General",ESPN 4
-https://comics-catalogue-fair-invite.trycloudflare.com/proxy_stream/st_1786451900.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/
 #EXTINF:-1 tvg-id="st_1786450671" tvg-name="Cinecanal" tvg-logo="" group-title="General",Cinecanal
