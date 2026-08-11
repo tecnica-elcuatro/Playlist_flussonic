@@ -71,6 +71,10 @@ https://comics-catalogue-fair-invite.trycloudflare.com/proxy_stream/st_178644942
 https://comics-catalogue-fair-invite.trycloudflare.com/proxy_stream/st_1786449357.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/
+#EXTINF:-1 tvg-id="st_1786450610" tvg-name="Cinemax" tvg-logo="" group-title="General",Cinemax
+https://comics-catalogue-fair-invite.trycloudflare.com/proxy_stream/st_1786450610.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/
 #EXTINF:-1 tvg-id="st_1786449276" tvg-name="Universal Channel" tvg-logo="" group-title="General",Universal Channel
 https://comics-catalogue-fair-invite.trycloudflare.com/proxy_stream/st_1786449276.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -97,10 +101,6 @@ https://comics-catalogue-fair-invite.trycloudflare.com/proxy_stream/st_178594951
 #EXTVLCOPT:http-referrer=https://amc-amcespanol-1-us.plex.wurl.tv/
 #EXTINF:-1 tvg-id="st_1786448464" tvg-name="AMC Series" tvg-logo="" group-title="General",AMC Series
 https://comics-catalogue-fair-invite.trycloudflare.com/proxy_stream/st_1786448464.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/
-#EXTINF:-1 tvg-id="st_1786450610" tvg-name="Cinemax" tvg-logo="" group-title="General",Cinemax
-https://comics-catalogue-fair-invite.trycloudflare.com/proxy_stream/st_1786450610.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://regionales.saohgdasregions.fun/
 #EXTINF:-1 tvg-id="st_1786447346" tvg-name="History" tvg-logo="" group-title="General",History
