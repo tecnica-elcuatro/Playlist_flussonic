@@ -39,6 +39,8 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/espn_
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/espn_4.m3u8
 #EXTINF:-1 tvg-id="st_1787156396" tvg-name="TNT Sports Premium" tvg-logo="" group-title="General",TNT Sports Premium
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/tnt_sports_premium.m3u8
+#EXTINF:-1 tvg-id="st_1787156705" tvg-name="ESPN Premium" tvg-logo="" group-title="General",ESPN Premium
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/espn_premium.m3u8
 #EXTINF:-1 tvg-id="st_1786451488" tvg-name="Disney Channel" tvg-logo="" group-title="General",Disney Channel
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/disney_channel.m3u8
 #EXTINF:-1 tvg-id="st_1786451410" tvg-name="Cartoon Network" tvg-logo="" group-title="General",Cartoon Network
@@ -49,8 +51,6 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/toonc
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/cinecanal.m3u8
 #EXTINF:-1 tvg-id="st_1786450610" tvg-name="Cinemax" tvg-logo="" group-title="General",Cinemax
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/cinemax.m3u8
-#EXTINF:-1 tvg-id="st_1787156705" tvg-name="ESPN Premium" tvg-logo="" group-title="General",ESPN Premium
-https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/espn_premium.m3u8
 #EXTINF:-1 tvg-id="st_1786450499" tvg-name="Golden" tvg-logo="" group-title="General",Golden
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/golden.m3u8
 #EXTINF:-1 tvg-id="st_1786449357" tvg-name="Star Channel" tvg-logo="" group-title="General",Star Channel
