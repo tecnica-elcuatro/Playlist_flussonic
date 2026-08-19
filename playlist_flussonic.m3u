@@ -33,6 +33,8 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/tyc_s
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/espn.m3u8
 #EXTINF:-1 tvg-id="st_1786452074" tvg-name="ESPN 2" tvg-logo="" group-title="General",ESPN 2
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/espn_2.m3u8
+#EXTINF:-1 tvg-id="st_1787155771" tvg-name="ESPN 3" tvg-logo="" group-title="General",ESPN 3
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/espn_3.m3u8
 #EXTINF:-1 tvg-id="st_1786451900" tvg-name="ESPN 4" tvg-logo="" group-title="General",ESPN 4
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/espn_4.m3u8
 #EXTINF:-1 tvg-id="st_1786451488" tvg-name="Disney Channel" tvg-logo="" group-title="General",Disney Channel
@@ -47,8 +49,6 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/cinec
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/cinemax.m3u8
 #EXTINF:-1 tvg-id="st_1786450499" tvg-name="Golden" tvg-logo="" group-title="General",Golden
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/golden.m3u8
-#EXTINF:-1 tvg-id="st_1787155771" tvg-name="ESPN 3" tvg-logo="" group-title="General",ESPN 3
-https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/espn_3.m3u8
 #EXTINF:-1 tvg-id="st_1786449357" tvg-name="Star Channel" tvg-logo="" group-title="General",Star Channel
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/star_channel.m3u8
 #EXTINF:-1 tvg-id="st_1786450399" tvg-name="TNT" tvg-logo="" group-title="General",TNT
