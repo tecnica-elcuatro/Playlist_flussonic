@@ -66,6 +66,10 @@ https://considered-any-northern-peter.trycloudflare.com/proxy_stream/st_17871563
 #EXTINF:-1 tvg-id="st_1787156705" tvg-name="ESPN Premium" tvg-logo="" group-title="General",ESPN Premium
 https://considered-any-northern-peter.trycloudflare.com/proxy_stream/st_1787156705.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfssddeports.com/
+#EXTINF:-1 tvg-id="st_1787226873" tvg-name="Fox Sports 1" tvg-logo="" group-title="General",Fox Sports 1
+https://considered-any-northern-peter.trycloudflare.com/proxy_stream/st_1787226873.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
 #EXTINF:-1 tvg-id="st_1786451488" tvg-name="Disney Channel" tvg-logo="" group-title="General",Disney Channel
 https://considered-any-northern-peter.trycloudflare.com/proxy_stream/st_1786451488.m3u8
@@ -97,10 +101,6 @@ https://considered-any-northern-peter.trycloudflare.com/proxy_stream/st_17864493
 #EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
 #EXTINF:-1 tvg-id="st_1786450399" tvg-name="TNT" tvg-logo="" group-title="General",TNT
 https://considered-any-northern-peter.trycloudflare.com/proxy_stream/st_1786450399.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfssddeports.com/
-#EXTINF:-1 tvg-id="st_1787226873" tvg-name="Fox Sports 1" tvg-logo="" group-title="General",Fox Sports 1
-https://considered-any-northern-peter.trycloudflare.com/proxy_stream/st_1787226873.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
 #EXTINF:-1 tvg-id="st_1786450344" tvg-name="Space" tvg-logo="" group-title="General",Space
