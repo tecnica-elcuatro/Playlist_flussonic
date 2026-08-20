@@ -27,6 +27,8 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/ameri
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/canal_9.m3u8
 #EXTINF:-1 tvg-id="st_1787226873" tvg-name="Fox Sports 1" tvg-logo="" group-title="General",Fox Sports 1
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/fox_sports_1.m3u8
+#EXTINF:-1 tvg-id="st_1787232183" tvg-name="Fox Sports 2" tvg-logo="" group-title="General",Fox Sports 2
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/fox_sports_2.m3u8
 #EXTINF:-1 tvg-id="st_1786452297" tvg-name="Fox Sports 3" tvg-logo="" group-title="General",Fox Sports 3
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/fox_sports_3.m3u8
 #EXTINF:-1 tvg-id="st_1786452173" tvg-name="TyC Sports" tvg-logo="" group-title="General",TyC Sports
@@ -37,8 +39,6 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/espn.
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/espn_2.m3u8
 #EXTINF:-1 tvg-id="st_1787155771" tvg-name="ESPN 3" tvg-logo="" group-title="General",ESPN 3
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/espn_3.m3u8
-#EXTINF:-1 tvg-id="st_1787232183" tvg-name="Fox Sports 2" tvg-logo="" group-title="General",Fox Sports 2
-https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/fox_sports_2.m3u8
 #EXTINF:-1 tvg-id="st_1786451900" tvg-name="ESPN 4" tvg-logo="" group-title="General",ESPN 4
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/espn_4.m3u8
 #EXTINF:-1 tvg-id="st_1787156396" tvg-name="TNT Sports Premium" tvg-logo="" group-title="General",TNT Sports Premium
