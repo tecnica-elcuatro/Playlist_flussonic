@@ -98,6 +98,10 @@ https://podcasts-listprice-tvs-call.trycloudflare.com/proxy_stream/st_1786450499
 #EXTINF:-1 tvg-id="st_1786449357" tvg-name="Star Channel" tvg-logo="" group-title="General",Star Channel
 https://podcasts-listprice-tvs-call.trycloudflare.com/proxy_stream/st_1786449357.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfssddeports.com/
+#EXTINF:-1 tvg-id="st_1787232183" tvg-name="Fox Sports 2" tvg-logo="" group-title="General",Fox Sports 2
+https://podcasts-listprice-tvs-call.trycloudflare.com/proxy_stream/st_1787232183.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
 #EXTINF:-1 tvg-id="st_1786450399" tvg-name="TNT" tvg-logo="" group-title="General",TNT
 https://podcasts-listprice-tvs-call.trycloudflare.com/proxy_stream/st_1786450399.m3u8
@@ -121,10 +125,6 @@ https://podcasts-listprice-tvs-call.trycloudflare.com/proxy_stream/st_1786449426
 #EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
 #EXTINF:-1 tvg-id="st_1786449276" tvg-name="Universal Channel" tvg-logo="" group-title="General",Universal Channel
 https://podcasts-listprice-tvs-call.trycloudflare.com/proxy_stream/st_1786449276.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfssddeports.com/
-#EXTINF:-1 tvg-id="st_1787232183" tvg-name="Fox Sports 2" tvg-logo="" group-title="General",Fox Sports 2
-https://podcasts-listprice-tvs-call.trycloudflare.com/proxy_stream/st_1787232183.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
 #EXTINF:-1 tvg-id="st_1786449179" tvg-name="Sony Channel" tvg-logo="" group-title="General",Sony Channel
