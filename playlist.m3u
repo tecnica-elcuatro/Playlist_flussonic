@@ -31,10 +31,6 @@ https://plaza-variable-cook-scene.trycloudflare.com/proxy_stream/st_1786452512.m
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net/
 #EXTINF:-1 tvg-id="st_1785949190" tvg-name="America TV" tvg-logo="" group-title="General",America TV
 https://plaza-variable-cook-scene.trycloudflare.com/proxy_stream/st_1785949190.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bestleague.life/
-#EXTINF:-1 tvg-id="st_hbo_hd" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Cine y Series",HBO HD
-https://plaza-variable-cook-scene.trycloudflare.com/proxy_stream/st_hbo_hd.m3u8
 #EXTINF:-1 tvg-id="st_1785949318" tvg-name="Canal 9" tvg-logo="https://i.ytimg.com/vi/e4VpCP8KWLY/maxresdefault.jpg" group-title="General",Canal 9
 https://plaza-variable-cook-scene.trycloudflare.com/proxy_stream/st_1785949318.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -53,6 +49,10 @@ https://plaza-variable-cook-scene.trycloudflare.com/proxy_stream/st_1786452297.m
 #EXTVLCOPT:http-referrer=https://deportes.ksdjugfssddeports.com/
 #EXTINF:-1 tvg-id="st_1786452173" tvg-name="TyC Sports" tvg-logo="" group-title="General",TyC Sports
 https://plaza-variable-cook-scene.trycloudflare.com/proxy_stream/st_1786452173.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bestleague.life/
+#EXTINF:-1 tvg-id="st_hbo_hd" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Cine y Series",HBO HD
+https://plaza-variable-cook-scene.trycloudflare.com/proxy_stream/st_hbo_hd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://deportes.ksdjugfssddeports.com/
 #EXTINF:-1 tvg-id="st_1786452115" tvg-name="ESPN" tvg-logo="" group-title="General",ESPN
