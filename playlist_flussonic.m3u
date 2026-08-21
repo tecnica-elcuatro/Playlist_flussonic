@@ -11,8 +11,6 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/c5n.m
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/tn.m3u8
 #EXTINF:-1 tvg-id="st_1785947971" tvg-name="LN+" tvg-logo="https://i.ytimg.com/vi/FEWZjXJ7M0c/maxresdefault.jpg" group-title="General",LN+
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/ln.m3u8
-#EXTINF:-1 tvg-id="st_hbo_hd" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Cine y Series",HBO HD
-https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/hbo_hd.m3u8
 #EXTINF:-1 tvg-id="st_1785948131" tvg-name="Argentina 12" tvg-logo="https://i.ytimg.com/vi/21UP3XoRIBU/hqdefault.jpg?v=6a60c834" group-title="General",Argentina 12
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/argentina_12.m3u8
 #EXTINF:-1 tvg-id="st_1785948688" tvg-name="Canal 7" tvg-logo="https://i.ytimg.com/vi/U6B-mlnL2tg/maxresdefault.jpg" group-title="General",Canal 7
@@ -25,6 +23,8 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/canal
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/canal_13.m3u8
 #EXTINF:-1 tvg-id="st_1785949190" tvg-name="America TV" tvg-logo="" group-title="General",America TV
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/america_tv.m3u8
+#EXTINF:-1 tvg-id="st_hbo_hd" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Cine y Series",HBO HD
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/hbo_hd.m3u8
 #EXTINF:-1 tvg-id="st_1785949318" tvg-name="Canal 9" tvg-logo="https://i.ytimg.com/vi/e4VpCP8KWLY/maxresdefault.jpg" group-title="General",Canal 9
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/canal_9.m3u8
 #EXTINF:-1 tvg-id="st_1787226873" tvg-name="Fox Sports 1" tvg-logo="" group-title="General",Fox Sports 1
