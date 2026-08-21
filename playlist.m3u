@@ -125,6 +125,10 @@ https://directly-cardiff-logos-push.trycloudflare.com/proxy_stream/st_1786449478
 #EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
 #EXTINF:-1 tvg-id="st_1786449426" tvg-name="FX" tvg-logo="" group-title="General",FX
 https://directly-cardiff-logos-push.trycloudflare.com/proxy_stream/st_1786449426.m3u8
+#EXTVLCOPT:http-referrer=https://cdn.cvattv.com.ar/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="st_1787320540" tvg-name="HBO 2" tvg-logo="" group-title="General",HBO 2
+https://directly-cardiff-logos-push.trycloudflare.com/proxy_stream/st_1787320540.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
 #EXTINF:-1 tvg-id="st_1786449276" tvg-name="Universal Channel" tvg-logo="" group-title="General",Universal Channel
@@ -149,10 +153,6 @@ https://directly-cardiff-logos-push.trycloudflare.com/proxy_stream/st_1786448092
 #EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
 #EXTINF:-1 tvg-id="st_1787166340" tvg-name="TNT Novelas" tvg-logo="" group-title="General",TNT Novelas
 https://directly-cardiff-logos-push.trycloudflare.com/proxy_stream/st_1787166340.m3u8
-#EXTVLCOPT:http-referrer=https://cdn.cvattv.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="st_1787320540" tvg-name="HBO 2" tvg-logo="" group-title="General",HBO 2
-https://directly-cardiff-logos-push.trycloudflare.com/proxy_stream/st_1787320540.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://unlimited1-saopaulo.dps.live/
 #EXTINF:-1 tvg-id="st_1785949516" tvg-name="Caras TV" tvg-logo="" group-title="General",Caras TV
