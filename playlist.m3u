@@ -183,7 +183,3 @@ https://jan-expenditure-cathedral-oliver.trycloudflare.com/proxy_stream/st_17859
 https://jan-expenditure-cathedral-oliver.trycloudflare.com/proxy_stream/st_1785951727.m3u8
 #EXTINF:-1 tvg-id="st_1785951789" tvg-name="Canal Luz" tvg-logo="https://i.ytimg.com/vi/YpyQFCk7oYc/maxresdefault.jpg" group-title="General",Canal Luz
 https://jan-expenditure-cathedral-oliver.trycloudflare.com/proxy_stream/st_1785951789.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
-#EXTINF:-1 tvg-id="st_1787242515" tvg-name="Disney Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Disney_Junior_2020.svg/512px-Disney_Junior_2020.svg.png" group-title="Infantil",Disney Jr
-https://jan-expenditure-cathedral-oliver.trycloudflare.com/proxy_stream/st_1787242515.m3u8
