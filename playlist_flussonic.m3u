@@ -91,12 +91,12 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/fx.m3
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/star_channel.m3u8
 #EXTINF:-1 tvg-id="st_1786449276" tvg-name="Universal Channel" tvg-logo="" group-title="General",Universal Channel
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/universal_channel.m3u8
+#EXTINF:-1 tvg-id="st_1786449179" tvg-name="Sony Channel" tvg-logo="" group-title="General",Sony Channel
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/sony_channel.m3u8
 #EXTINF:-1 tvg-id="st_1787586978" tvg-name="A&E" tvg-logo="" group-title="General",A&E
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/a_e.m3u8
 #EXTINF:-1 tvg-id="st_1786448736" tvg-name="AXN" tvg-logo="" group-title="General",AXN
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/axn.m3u8
-#EXTINF:-1 tvg-id="st_1786449179" tvg-name="Sony Channel" tvg-logo="" group-title="General",Sony Channel
-https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/sony_channel.m3u8
 #EXTINF:-1 tvg-id="st_1786448563" tvg-name="TNT Series" tvg-logo="" group-title="General",TNT Series
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/tnt_series.m3u8
 #EXTINF:-1 tvg-id="st_1787581542" tvg-name="Film & Arts" tvg-logo="" group-title="General",Film & Arts
