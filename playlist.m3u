@@ -233,6 +233,8 @@ https://publisher-filters-one-volt.trycloudflare.com/proxy_stream/st_1787589025.
 #EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
 #EXTINF:-1 tvg-id="st_1786388368" tvg-name="Discovery H&H" tvg-logo="" group-title="General",Discovery H&H
 https://publisher-filters-one-volt.trycloudflare.com/proxy_stream/st_1786388368.m3u8
+#EXTINF:-1 tvg-id="st_1787590297" tvg-name="Canal 9" tvg-logo="https://img.youtube.com/vi/e4VpCP8KWLY/hqdefault.jpg" group-title="General",Canal 9
+https://publisher-filters-one-volt.trycloudflare.com/proxy_stream/st_1787590297.m3u8
 #EXTINF:-1 tvg-id="st_1787589138" tvg-name="Food Network" tvg-logo="" group-title="General",Food Network
 https://publisher-filters-one-volt.trycloudflare.com/proxy_stream/st_1787589138.m3u8
 #EXTINF:-1 tvg-id="st_1787589262" tvg-name="TVE" tvg-logo="" group-title="General",TVE
@@ -259,8 +261,6 @@ https://publisher-filters-one-volt.trycloudflare.com/proxy_stream/st_1785951789.
 https://publisher-filters-one-volt.trycloudflare.com/proxy_stream/st_1787579240.m3u8
 #EXTINF:-1 tvg-id="st_1787589848" tvg-name="Space" tvg-logo="" group-title="General",Space
 https://publisher-filters-one-volt.trycloudflare.com/proxy_stream/st_1787589848.m3u8
-#EXTINF:-1 tvg-id="st_1787590297" tvg-name="Canal 9" tvg-logo="https://img.youtube.com/vi/e4VpCP8KWLY/hqdefault.jpg" group-title="General",Canal 9
-https://publisher-filters-one-volt.trycloudflare.com/proxy_stream/st_1787590297.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net/
 #EXTINF:-1 tvg-id="st_1787590462" tvg-name="America TV" tvg-logo="" group-title="General",America TV
