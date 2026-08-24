@@ -237,7 +237,3 @@ https://primarily-ebooks-eastern-yorkshire.trycloudflare.com/proxy_stream/st_178
 #EXTVLCOPT:http-referrer=https://deportes.ksdjugfssddeports.com/
 #EXTINF:-1 tvg-id="st_1787579240" tvg-name="ESPN Premium" tvg-logo="" group-title="General",ESPN Premium
 https://primarily-ebooks-eastern-yorkshire.trycloudflare.com/proxy_stream/st_1787579240.m3u8
-#EXTVLCOPT:http-referrer=https://cdn.cvattv.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="st_1787587350" tvg-name="Gourmet" tvg-logo="" group-title="General",Gourmet
-https://primarily-ebooks-eastern-yorkshire.trycloudflare.com/proxy_stream/st_1787587350.m3u8
