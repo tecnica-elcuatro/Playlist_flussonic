@@ -147,6 +147,8 @@ https://publisher-filters-one-volt.trycloudflare.com/proxy_stream/st_1787580646.
 #EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
 #EXTINF:-1 tvg-id="st_1786449478" tvg-name="Studio Universal" tvg-logo="" group-title="General",Studio Universal
 https://publisher-filters-one-volt.trycloudflare.com/proxy_stream/st_1786449478.m3u8
+#EXTINF:-1 tvg-id="st_1787590297" tvg-name="Canal 9" tvg-logo="https://img.youtube.com/vi/e4VpCP8KWLY/hqdefault.jpg" group-title="General",Canal 9
+https://publisher-filters-one-volt.trycloudflare.com/proxy_stream/st_1787590297.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
 #EXTINF:-1 tvg-id="st_1786449426" tvg-name="FX" tvg-logo="" group-title="General",FX
@@ -177,8 +179,6 @@ https://publisher-filters-one-volt.trycloudflare.com/proxy_stream/st_1786448563.
 https://publisher-filters-one-volt.trycloudflare.com/proxy_stream/st_1787581542.m3u8
 #EXTINF:-1 tvg-id="st_1787581619" tvg-name="USA" tvg-logo="" group-title="General",USA
 https://publisher-filters-one-volt.trycloudflare.com/proxy_stream/st_1787581619.m3u8
-#EXTINF:-1 tvg-id="st_1787590297" tvg-name="Canal 9" tvg-logo="https://img.youtube.com/vi/e4VpCP8KWLY/hqdefault.jpg" group-title="General",Canal 9
-https://publisher-filters-one-volt.trycloudflare.com/proxy_stream/st_1787590297.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://channel01-onlymex.akamaized.net/
 #EXTINF:-1 tvg-id="st_1786448092" tvg-name="Canal de las Estrellas" tvg-logo="" group-title="General",Canal de las Estrellas
