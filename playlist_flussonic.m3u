@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="st_1785947006" tvg-name="A24" tvg-logo="https://i.ytimg.com/vi/ArKbAx1K-2U/maxresdefault.jpg" group-title="General",A24
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/a24.m3u8
-#EXTINF:-1 tvg-id="st_hbo_signature" tvg-name="HBO Signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Cine y Series",HBO Signature
-https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/hbo_signature.m3u8
 #EXTINF:-1 tvg-id="st_1785947448" tvg-name="Cronica" tvg-logo="https://i.ytimg.com/vi/hw4uHyct4vg/maxresdefault.jpg" group-title="General",Cronica
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/cronica.m3u8
 #EXTINF:-1 tvg-id="st_1785956789" tvg-name="Canal 26" tvg-logo="" group-title="General",Canal 26
@@ -71,6 +69,8 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/hbo_2
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/hbo_plus.m3u8
 #EXTINF:-1 tvg-id="st_1787572577" tvg-name="HBO Family" tvg-logo="" group-title="General",HBO Family
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/hbo_family.m3u8
+#EXTINF:-1 tvg-id="st_hbo_signature" tvg-name="HBO Signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Cine y Series",HBO Signature
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/hbo_signature.m3u8
 #EXTINF:-1 tvg-id="st_1787572742" tvg-name="HBO Xtreme" tvg-logo="" group-title="General",HBO Xtreme
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/hbo_xtreme.m3u8
 #EXTINF:-1 tvg-id="st_1786448812" tvg-name="AMC" tvg-logo="" group-title="General",AMC
