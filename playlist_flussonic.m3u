@@ -75,6 +75,8 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/studi
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/fx.m3u8
 #EXTINF:-1 tvg-id="st_1786449276" tvg-name="Universal Channel" tvg-logo="" group-title="General",Universal Channel
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/universal_channel.m3u8
+#EXTINF:-1 tvg-id="st_1787572269" tvg-name="HBO 2" tvg-logo="" group-title="General",HBO 2
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/hbo_2.m3u8
 #EXTINF:-1 tvg-id="st_1786449179" tvg-name="Sony Channel" tvg-logo="" group-title="General",Sony Channel
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/sony_channel.m3u8
 #EXTINF:-1 tvg-id="st_1786448736" tvg-name="AXN" tvg-logo="" group-title="General",AXN
@@ -87,8 +89,6 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/canal
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/tnt_novelas.m3u8
 #EXTINF:-1 tvg-id="st_1785949516" tvg-name="Caras TV" tvg-logo="" group-title="General",Caras TV
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/caras_tv.m3u8
-#EXTINF:-1 tvg-id="st_1787572269" tvg-name="HBO 2" tvg-logo="" group-title="General",HBO 2
-https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/hbo_2.m3u8
 #EXTINF:-1 tvg-id="st_1786448464" tvg-name="AMC Series" tvg-logo="" group-title="General",AMC Series
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/amc_series.m3u8
 #EXTINF:-1 tvg-id="st_1786447346" tvg-name="History" tvg-logo="" group-title="General",History
