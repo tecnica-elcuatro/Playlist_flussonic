@@ -99,6 +99,8 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/sony_
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/tnt_series.m3u8
 #EXTINF:-1 tvg-id="st_1787581542" tvg-name="Film & Arts" tvg-logo="" group-title="General",Film & Arts
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/film_arts.m3u8
+#EXTINF:-1 tvg-id="st_1787581619" tvg-name="USA" tvg-logo="" group-title="General",USA
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/usa.m3u8
 #EXTINF:-1 tvg-id="st_1786448092" tvg-name="Canal de las Estrellas" tvg-logo="" group-title="General",Canal de las Estrellas
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/canal_de_las_estrellas.m3u8
 #EXTINF:-1 tvg-id="st_1787166340" tvg-name="TNT Novelas" tvg-logo="" group-title="General",TNT Novelas
@@ -125,5 +127,3 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/ewtn.
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/canal_luz.m3u8
 #EXTINF:-1 tvg-id="st_1787579240" tvg-name="ESPN Premium" tvg-logo="" group-title="General",ESPN Premium
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/espn_premium.m3u8
-#EXTINF:-1 tvg-id="st_1787581619" tvg-name="USA" tvg-logo="" group-title="General",USA
-https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/usa.m3u8
