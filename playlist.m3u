@@ -153,12 +153,12 @@ https://primarily-ebooks-eastern-yorkshire.trycloudflare.com/proxy_stream/st_178
 #EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
 #EXTINF:-1 tvg-id="st_1786449426" tvg-name="FX" tvg-logo="" group-title="General",FX
 https://primarily-ebooks-eastern-yorkshire.trycloudflare.com/proxy_stream/st_1786449426.m3u8
-#EXTINF:-1 tvg-id="st_1787586978" tvg-name="A&E" tvg-logo="" group-title="General",A&E
-https://primarily-ebooks-eastern-yorkshire.trycloudflare.com/proxy_stream/st_1787586978.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
 #EXTINF:-1 tvg-id="st_1786449357" tvg-name="Star Channel" tvg-logo="" group-title="General",Star Channel
 https://primarily-ebooks-eastern-yorkshire.trycloudflare.com/proxy_stream/st_1786449357.m3u8
+#EXTINF:-1 tvg-id="st_1787586978" tvg-name="A&E" tvg-logo="" group-title="General",A&E
+https://primarily-ebooks-eastern-yorkshire.trycloudflare.com/proxy_stream/st_1787586978.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
 #EXTINF:-1 tvg-id="st_1786448736" tvg-name="AXN" tvg-logo="" group-title="General",AXN
