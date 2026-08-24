@@ -159,3 +159,5 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/ewtn.
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/canal_luz.m3u8
 #EXTINF:-1 tvg-id="st_1787579240" tvg-name="ESPN Premium" tvg-logo="" group-title="General",ESPN Premium
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/espn_premium.m3u8
+#EXTINF:-1 tvg-id="st_1787589352" tvg-name="Telemundo" tvg-logo="" group-title="General",Telemundo
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/telemundo.m3u8
