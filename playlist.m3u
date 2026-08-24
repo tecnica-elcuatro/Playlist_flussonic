@@ -265,3 +265,7 @@ https://allen-excel-accessible-origin.trycloudflare.com/proxy_stream/st_17875895
 https://allen-excel-accessible-origin.trycloudflare.com/proxy_stream/st_1787589848.m3u8
 #EXTINF:-1 tvg-id="st_1787590297" tvg-name="Canal 9" tvg-logo="https://img.youtube.com/vi/e4VpCP8KWLY/hqdefault.jpg" group-title="General",Canal 9
 https://allen-excel-accessible-origin.trycloudflare.com/proxy_stream/st_1787590297.m3u8
+#EXTVLCOPT:http-referrer=https://vmf.edge-apps.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="st_1787590462" tvg-name="America TV" tvg-logo="" group-title="General",America TV
+https://allen-excel-accessible-origin.trycloudflare.com/proxy_stream/st_1787590462.m3u8
