@@ -239,6 +239,8 @@ https://allen-excel-accessible-origin.trycloudflare.com/proxy_stream/st_17863883
 https://allen-excel-accessible-origin.trycloudflare.com/proxy_stream/st_1787589138.m3u8
 #EXTINF:-1 tvg-id="st_1787589262" tvg-name="TVE" tvg-logo="" group-title="General",TVE
 https://allen-excel-accessible-origin.trycloudflare.com/proxy_stream/st_1787589262.m3u8
+#EXTINF:-1 tvg-id="st_1787589352" tvg-name="Telemundo" tvg-logo="" group-title="General",Telemundo
+https://allen-excel-accessible-origin.trycloudflare.com/proxy_stream/st_1787589352.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://geo.dailymotion.com/
 #EXTINF:-1 tvg-id="st_1785950054" tvg-name="Bolivia TV" tvg-logo="" group-title="General",Bolivia TV
@@ -257,5 +259,3 @@ https://allen-excel-accessible-origin.trycloudflare.com/proxy_stream/st_17859517
 #EXTVLCOPT:http-referrer=https://deportes.ksdjugfssddeports.com/
 #EXTINF:-1 tvg-id="st_1787579240" tvg-name="ESPN Premium" tvg-logo="" group-title="General",ESPN Premium
 https://allen-excel-accessible-origin.trycloudflare.com/proxy_stream/st_1787579240.m3u8
-#EXTINF:-1 tvg-id="st_1787589352" tvg-name="Telemundo" tvg-logo="" group-title="General",Telemundo
-https://allen-excel-accessible-origin.trycloudflare.com/proxy_stream/st_1787589352.m3u8
