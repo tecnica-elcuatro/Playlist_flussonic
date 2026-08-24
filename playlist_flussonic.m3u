@@ -67,6 +67,8 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/tnt.m
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/space.m3u8
 #EXTINF:-1 tvg-id="st_1787320540" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Cine y Series",HBO 2
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/hbo_2.m3u8
+#EXTINF:-1 tvg-id="st_1787572269" tvg-name="HBO 2" tvg-logo="" group-title="General",HBO 2
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/hbo_2.m3u8
 #EXTINF:-1 tvg-id="st_1786448812" tvg-name="AMC" tvg-logo="" group-title="General",AMC
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/amc.m3u8
 #EXTINF:-1 tvg-id="st_1786449478" tvg-name="Studio Universal" tvg-logo="" group-title="General",Studio Universal
@@ -75,8 +77,6 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/studi
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/fx.m3u8
 #EXTINF:-1 tvg-id="st_1786449276" tvg-name="Universal Channel" tvg-logo="" group-title="General",Universal Channel
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/universal_channel.m3u8
-#EXTINF:-1 tvg-id="st_1787572269" tvg-name="HBO 2" tvg-logo="" group-title="General",HBO 2
-https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/hbo_2.m3u8
 #EXTINF:-1 tvg-id="st_1786449179" tvg-name="Sony Channel" tvg-logo="" group-title="General",Sony Channel
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/sony_channel.m3u8
 #EXTINF:-1 tvg-id="st_1786448736" tvg-name="AXN" tvg-logo="" group-title="General",AXN
