@@ -129,6 +129,10 @@ https://examination-extract-end-sixth.trycloudflare.com/proxy_stream/st_hbo_sign
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="st_1787572742" tvg-name="HBO Xtreme" tvg-logo="" group-title="General",HBO Xtreme
 https://examination-extract-end-sixth.trycloudflare.com/proxy_stream/st_1787572742.m3u8
+#EXTVLCOPT:http-referrer=https://cdn.cvattv.com.ar/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="st_1787573644" tvg-name="HBO Mundi" tvg-logo="" group-title="General",HBO Mundi
+https://examination-extract-end-sixth.trycloudflare.com/proxy_stream/st_1787573644.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
 #EXTINF:-1 tvg-id="st_1786448812" tvg-name="AMC" tvg-logo="" group-title="General",AMC
@@ -149,10 +153,6 @@ https://examination-extract-end-sixth.trycloudflare.com/proxy_stream/st_17864492
 #EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
 #EXTINF:-1 tvg-id="st_1786449179" tvg-name="Sony Channel" tvg-logo="" group-title="General",Sony Channel
 https://examination-extract-end-sixth.trycloudflare.com/proxy_stream/st_1786449179.m3u8
-#EXTVLCOPT:http-referrer=https://cdn.cvattv.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="st_1787573644" tvg-name="HBO Mundi" tvg-logo="" group-title="General",HBO Mundi
-https://examination-extract-end-sixth.trycloudflare.com/proxy_stream/st_1787573644.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
 #EXTINF:-1 tvg-id="st_1786448736" tvg-name="AXN" tvg-logo="" group-title="General",AXN
