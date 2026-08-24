@@ -99,6 +99,8 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/canal
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/tnt_novelas.m3u8
 #EXTINF:-1 tvg-id="st_1785949516" tvg-name="Caras TV" tvg-logo="" group-title="General",Caras TV
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/caras_tv.m3u8
+#EXTINF:-1 tvg-id="st_1787580447" tvg-name="Volver" tvg-logo="" group-title="General",Volver
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/volver.m3u8
 #EXTINF:-1 tvg-id="st_1786448464" tvg-name="AMC Series" tvg-logo="" group-title="General",AMC Series
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/amc_series.m3u8
 #EXTINF:-1 tvg-id="st_1786447346" tvg-name="History" tvg-logo="" group-title="General",History
@@ -119,5 +121,3 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/ewtn.
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/canal_luz.m3u8
 #EXTINF:-1 tvg-id="st_1787579240" tvg-name="ESPN Premium" tvg-logo="" group-title="General",ESPN Premium
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/espn_premium.m3u8
-#EXTINF:-1 tvg-id="st_1787580447" tvg-name="Volver" tvg-logo="" group-title="General",Volver
-https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/volver.m3u8
