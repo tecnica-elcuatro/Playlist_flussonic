@@ -65,8 +65,6 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/star_
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/tnt.m3u8
 #EXTINF:-1 tvg-id="st_1786450344" tvg-name="Space" tvg-logo="" group-title="General",Space
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/space.m3u8
-#EXTINF:-1 tvg-id="st_1787320540" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Cine y Series",HBO 2
-https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/hbo_2.m3u8
 #EXTINF:-1 tvg-id="st_1787572269" tvg-name="HBO 2" tvg-logo="" group-title="General",HBO 2
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/hbo_2.m3u8
 #EXTINF:-1 tvg-id="st_1787572474" tvg-name="HBO Plus" tvg-logo="" group-title="General",HBO Plus
