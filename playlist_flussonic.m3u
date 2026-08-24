@@ -149,12 +149,12 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/disco
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/food_network.m3u8
 #EXTINF:-1 tvg-id="st_1787589262" tvg-name="TVE" tvg-logo="" group-title="General",TVE
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/tve.m3u8
-#EXTINF:-1 tvg-id="st_1787589352" tvg-name="Telemundo" tvg-logo="" group-title="General",Telemundo
-https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/telemundo.m3u8
 #EXTINF:-1 tvg-id="st_1785950054" tvg-name="Bolivia TV" tvg-logo="" group-title="General",Bolivia TV
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/bolivia_tv.m3u8
 #EXTINF:-1 tvg-id="st_1785950192" tvg-name="Bolivision" tvg-logo="" group-title="General",Bolivision
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/bolivision.m3u8
+#EXTINF:-1 tvg-id="st_1787589352" tvg-name="Telemundo" tvg-logo="" group-title="General",Telemundo
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/telemundo.m3u8
 #EXTINF:-1 tvg-id="st_1785951727" tvg-name="EWTN" tvg-logo="" group-title="General",EWTN
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/ewtn.m3u8
 #EXTINF:-1 tvg-id="st_1785951789" tvg-name="Canal Luz" tvg-logo="https://i.ytimg.com/vi/YpyQFCk7oYc/maxresdefault.jpg" group-title="General",Canal Luz
