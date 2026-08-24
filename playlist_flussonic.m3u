@@ -51,10 +51,10 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/disne
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/disney_channel.m3u8
 #EXTINF:-1 tvg-id="st_1786451410" tvg-name="Cartoon Network" tvg-logo="" group-title="General",Cartoon Network
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/cartoon_network.m3u8
-#EXTINF:-1 tvg-id="st_1786450777" tvg-name="Tooncast" tvg-logo="" group-title="General",Tooncast
-https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/tooncast.m3u8
 #EXTINF:-1 tvg-id="st_1787594382" tvg-name="Discovery Kids" tvg-logo="" group-title="General",Discovery Kids
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/discovery_kids.m3u8
+#EXTINF:-1 tvg-id="st_1786450777" tvg-name="Tooncast" tvg-logo="" group-title="General",Tooncast
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/tooncast.m3u8
 #EXTINF:-1 tvg-id="st_1787594195" tvg-name="Dreamworks" tvg-logo="" group-title="General",Dreamworks
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/dreamworks.m3u8
 #EXTINF:-1 tvg-id="st_1786450671" tvg-name="Cinecanal" tvg-logo="" group-title="General",Cinecanal
