@@ -85,12 +85,12 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/volve
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/europa_europa.m3u8
 #EXTINF:-1 tvg-id="st_1786449478" tvg-name="Studio Universal" tvg-logo="" group-title="General",Studio Universal
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/studio_universal.m3u8
-#EXTINF:-1 tvg-id="st_1786449357" tvg-name="Star Channel" tvg-logo="" group-title="General",Star Channel
-https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/star_channel.m3u8
 #EXTINF:-1 tvg-id="st_1786449426" tvg-name="FX" tvg-logo="" group-title="General",FX
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/fx.m3u8
 #EXTINF:-1 tvg-id="st_1787586978" tvg-name="A&E" tvg-logo="" group-title="General",A&E
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/a_e.m3u8
+#EXTINF:-1 tvg-id="st_1786449357" tvg-name="Star Channel" tvg-logo="" group-title="General",Star Channel
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/star_channel.m3u8
 #EXTINF:-1 tvg-id="st_1786448736" tvg-name="AXN" tvg-logo="" group-title="General",AXN
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/axn.m3u8
 #EXTINF:-1 tvg-id="st_1786449276" tvg-name="Universal Channel" tvg-logo="" group-title="General",Universal Channel
