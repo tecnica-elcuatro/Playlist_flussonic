@@ -129,3 +129,5 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/ewtn.
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/canal_luz.m3u8
 #EXTINF:-1 tvg-id="st_1787579240" tvg-name="ESPN Premium" tvg-logo="" group-title="General",ESPN Premium
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/espn_premium.m3u8
+#EXTINF:-1 tvg-id="st_1787582287" tvg-name="TNT Novelas" tvg-logo="" group-title="General",TNT Novelas
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/tnt_novelas.m3u8
