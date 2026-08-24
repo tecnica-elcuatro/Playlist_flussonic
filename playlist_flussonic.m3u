@@ -47,6 +47,8 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/tnt_s
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/espn_premium.m3u8
 #EXTINF:-1 tvg-id="st_1787594293" tvg-name="Disney Jr" tvg-logo="" group-title="General",Disney Jr
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/disney_jr.m3u8
+#EXTINF:-1 tvg-id="st_1787594382" tvg-name="Discovery Kids" tvg-logo="" group-title="General",Discovery Kids
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/discovery_kids.m3u8
 #EXTINF:-1 tvg-id="st_1786451488" tvg-name="Disney Channel" tvg-logo="" group-title="General",Disney Channel
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/disney_channel.m3u8
 #EXTINF:-1 tvg-id="st_1786451410" tvg-name="Cartoon Network" tvg-logo="" group-title="General",Cartoon Network
@@ -71,8 +73,6 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/hbo_2
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/hbo_plus.m3u8
 #EXTINF:-1 tvg-id="st_1787572577" tvg-name="HBO Family" tvg-logo="" group-title="General",HBO Family
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/hbo_family.m3u8
-#EXTINF:-1 tvg-id="st_1787594382" tvg-name="Discovery Kids" tvg-logo="" group-title="General",Discovery Kids
-https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/discovery_kids.m3u8
 #EXTINF:-1 tvg-id="st_hbo_signature" tvg-name="HBO Signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Cine y Series",HBO Signature
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/hbo_signature.m3u8
 #EXTINF:-1 tvg-id="st_1787572742" tvg-name="HBO Xtreme" tvg-logo="" group-title="General",HBO Xtreme
