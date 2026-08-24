@@ -97,10 +97,10 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/unive
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/sony_channel.m3u8
 #EXTINF:-1 tvg-id="st_1786448563" tvg-name="TNT Series" tvg-logo="" group-title="General",TNT Series
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/tnt_series.m3u8
-#EXTINF:-1 tvg-id="st_1786448092" tvg-name="Canal de las Estrellas" tvg-logo="" group-title="General",Canal de las Estrellas
-https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/canal_de_las_estrellas.m3u8
 #EXTINF:-1 tvg-id="st_1787581542" tvg-name="Film & Arts" tvg-logo="" group-title="General",Film & Arts
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/film_arts.m3u8
+#EXTINF:-1 tvg-id="st_1786448092" tvg-name="Canal de las Estrellas" tvg-logo="" group-title="General",Canal de las Estrellas
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/canal_de_las_estrellas.m3u8
 #EXTINF:-1 tvg-id="st_1787166340" tvg-name="TNT Novelas" tvg-logo="" group-title="General",TNT Novelas
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/tnt_novelas.m3u8
 #EXTINF:-1 tvg-id="st_1785949516" tvg-name="Caras TV" tvg-logo="" group-title="General",Caras TV
