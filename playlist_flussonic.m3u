@@ -97,21 +97,3 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/canal
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/tnt_novelas.m3u8
 #EXTINF:-1 tvg-id="st_1785949516" tvg-name="Caras TV" tvg-logo="" group-title="General",Caras TV
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/caras_tv.m3u8
-#EXTINF:-1 tvg-id="st_1786448464" tvg-name="AMC Series" tvg-logo="" group-title="General",AMC Series
-https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/amc_series.m3u8
-#EXTINF:-1 tvg-id="st_1786447346" tvg-name="History" tvg-logo="" group-title="General",History
-https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/history.m3u8
-#EXTINF:-1 tvg-id="st_1786447437" tvg-name="History 2" tvg-logo="" group-title="General",History 2
-https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/history_2.m3u8
-#EXTINF:-1 tvg-id="st_1786450160" tvg-name="Discovery Channel" tvg-logo="" group-title="General",Discovery Channel
-https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/discovery_channel.m3u8
-#EXTINF:-1 tvg-id="st_1786388368" tvg-name="Discovery H&H" tvg-logo="" group-title="General",Discovery H&H
-https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/discovery_h_h.m3u8
-#EXTINF:-1 tvg-id="st_1785950054" tvg-name="Bolivia TV" tvg-logo="" group-title="General",Bolivia TV
-https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/bolivia_tv.m3u8
-#EXTINF:-1 tvg-id="st_1785950192" tvg-name="Bolivision" tvg-logo="" group-title="General",Bolivision
-https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/bolivision.m3u8
-#EXTINF:-1 tvg-id="st_1785951727" tvg-name="EWTN" tvg-logo="" group-title="General",EWTN
-https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/ewtn.m3u8
-#EXTINF:-1 tvg-id="st_1785951789" tvg-name="Canal Luz" tvg-logo="https://i.ytimg.com/vi/YpyQFCk7oYc/maxresdefault.jpg" group-title="General",Canal Luz
-https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/canal_luz.m3u8
