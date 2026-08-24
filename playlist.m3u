@@ -201,6 +201,8 @@ https://deemed-charms-gregory-gates.trycloudflare.com/proxy_stream/st_1787582513
 https://deemed-charms-gregory-gates.trycloudflare.com/proxy_stream/st_1787582569.m3u8
 #EXTINF:-1 tvg-id="st_1787586348" tvg-name="Lifetime" tvg-logo="" group-title="General",Lifetime
 https://deemed-charms-gregory-gates.trycloudflare.com/proxy_stream/st_1787586348.m3u8
+#EXTINF:-1 tvg-id="st_1787594195" tvg-name="Dreamworks" tvg-logo="" group-title="General",Dreamworks
+https://deemed-charms-gregory-gates.trycloudflare.com/proxy_stream/st_1787594195.m3u8
 #EXTINF:-1 tvg-id="st_1787587273" tvg-name="Encuentro" tvg-logo="" group-title="General",Encuentro
 https://deemed-charms-gregory-gates.trycloudflare.com/proxy_stream/st_1787587273.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -215,8 +217,6 @@ https://deemed-charms-gregory-gates.trycloudflare.com/proxy_stream/st_1786447437
 https://deemed-charms-gregory-gates.trycloudflare.com/proxy_stream/st_1787587724.m3u8
 #EXTINF:-1 tvg-id="st_1787587991" tvg-name="Discovery World" tvg-logo="" group-title="General",Discovery World
 https://deemed-charms-gregory-gates.trycloudflare.com/proxy_stream/st_1787587991.m3u8
-#EXTINF:-1 tvg-id="st_1787594195" tvg-name="Dreamworks" tvg-logo="" group-title="General",Dreamworks
-https://deemed-charms-gregory-gates.trycloudflare.com/proxy_stream/st_1787594195.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
 #EXTINF:-1 tvg-id="st_1786450160" tvg-name="Discovery Channel" tvg-logo="" group-title="General",Discovery Channel
