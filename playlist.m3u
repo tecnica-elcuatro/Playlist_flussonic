@@ -201,6 +201,8 @@ https://primarily-ebooks-eastern-yorkshire.trycloudflare.com/proxy_stream/st_178
 https://primarily-ebooks-eastern-yorkshire.trycloudflare.com/proxy_stream/st_1787582569.m3u8
 #EXTINF:-1 tvg-id="st_1787586348" tvg-name="Lifetime" tvg-logo="" group-title="General",Lifetime
 https://primarily-ebooks-eastern-yorkshire.trycloudflare.com/proxy_stream/st_1787586348.m3u8
+#EXTINF:-1 tvg-id="st_1787587273" tvg-name="Encuentro" tvg-logo="" group-title="General",Encuentro
+https://primarily-ebooks-eastern-yorkshire.trycloudflare.com/proxy_stream/st_1787587273.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
 #EXTINF:-1 tvg-id="st_1786447346" tvg-name="History" tvg-logo="" group-title="General",History
@@ -235,5 +237,3 @@ https://primarily-ebooks-eastern-yorkshire.trycloudflare.com/proxy_stream/st_178
 #EXTVLCOPT:http-referrer=https://deportes.ksdjugfssddeports.com/
 #EXTINF:-1 tvg-id="st_1787579240" tvg-name="ESPN Premium" tvg-logo="" group-title="General",ESPN Premium
 https://primarily-ebooks-eastern-yorkshire.trycloudflare.com/proxy_stream/st_1787579240.m3u8
-#EXTINF:-1 tvg-id="st_1787587273" tvg-name="Encuentro" tvg-logo="" group-title="General",Encuentro
-https://primarily-ebooks-eastern-yorkshire.trycloudflare.com/proxy_stream/st_1787587273.m3u8
