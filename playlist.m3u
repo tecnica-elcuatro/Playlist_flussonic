@@ -82,10 +82,6 @@ https://examination-extract-end-sixth.trycloudflare.com/proxy_stream/st_17864514
 #EXTINF:-1 tvg-id="st_1786451410" tvg-name="Cartoon Network" tvg-logo="" group-title="General",Cartoon Network
 https://examination-extract-end-sixth.trycloudflare.com/proxy_stream/st_1786451410.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bestleague.life/
-#EXTINF:-1 tvg-id="st_hbo_signature" tvg-name="HBO Signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Cine y Series",HBO Signature
-https://examination-extract-end-sixth.trycloudflare.com/proxy_stream/st_hbo_signature.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
 #EXTINF:-1 tvg-id="st_1786450777" tvg-name="Tooncast" tvg-logo="" group-title="General",Tooncast
 https://examination-extract-end-sixth.trycloudflare.com/proxy_stream/st_1786450777.m3u8
@@ -101,6 +97,10 @@ https://examination-extract-end-sixth.trycloudflare.com/proxy_stream/st_17864506
 #EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
 #EXTINF:-1 tvg-id="st_1786450499" tvg-name="Golden" tvg-logo="" group-title="General",Golden
 https://examination-extract-end-sixth.trycloudflare.com/proxy_stream/st_1786450499.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bestleague.life/
+#EXTINF:-1 tvg-id="st_hbo_signature" tvg-name="HBO Signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Cine y Series",HBO Signature
+https://examination-extract-end-sixth.trycloudflare.com/proxy_stream/st_hbo_signature.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
 #EXTINF:-1 tvg-id="st_1786449357" tvg-name="Star Channel" tvg-logo="" group-title="General",Star Channel
