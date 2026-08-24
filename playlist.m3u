@@ -123,6 +123,8 @@ https://deemed-charms-gregory-gates.trycloudflare.com/proxy_stream/st_1787572577
 #EXTVLCOPT:http-referrer=https://bestleague.life/
 #EXTINF:-1 tvg-id="st_hbo_signature" tvg-name="HBO Signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Cine y Series",HBO Signature
 https://deemed-charms-gregory-gates.trycloudflare.com/proxy_stream/st_hbo_signature.m3u8
+#EXTINF:-1 tvg-id="st_1787594293" tvg-name="Disney Jr" tvg-logo="" group-title="General",Disney Jr
+https://deemed-charms-gregory-gates.trycloudflare.com/proxy_stream/st_1787594293.m3u8
 #EXTVLCOPT:http-referrer=https://cdn.cvattv.com.ar/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="st_1787572742" tvg-name="HBO Xtreme" tvg-logo="" group-title="General",HBO Xtreme
@@ -143,8 +145,6 @@ https://deemed-charms-gregory-gates.trycloudflare.com/proxy_stream/st_1786448812
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="st_1787577931" tvg-name="TCM" tvg-logo="" group-title="General",TCM
 https://deemed-charms-gregory-gates.trycloudflare.com/proxy_stream/st_1787577931.m3u8
-#EXTINF:-1 tvg-id="st_1787594293" tvg-name="Disney Jr" tvg-logo="" group-title="General",Disney Jr
-https://deemed-charms-gregory-gates.trycloudflare.com/proxy_stream/st_1787594293.m3u8
 #EXTINF:-1 tvg-id="st_1787580447" tvg-name="Volver" tvg-logo="" group-title="General",Volver
 https://deemed-charms-gregory-gates.trycloudflare.com/proxy_stream/st_1787580447.m3u8
 #EXTINF:-1 tvg-id="st_1787580646" tvg-name="Europa Europa" tvg-logo="" group-title="General",Europa Europa
