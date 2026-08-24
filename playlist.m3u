@@ -231,3 +231,5 @@ https://primarily-ebooks-eastern-yorkshire.trycloudflare.com/proxy_stream/st_178
 #EXTVLCOPT:http-referrer=https://deportes.ksdjugfssddeports.com/
 #EXTINF:-1 tvg-id="st_1787579240" tvg-name="ESPN Premium" tvg-logo="" group-title="General",ESPN Premium
 https://primarily-ebooks-eastern-yorkshire.trycloudflare.com/proxy_stream/st_1787579240.m3u8
+#EXTINF:-1 tvg-id="st_1787582513" tvg-name="Sun Channel" tvg-logo="" group-title="General",Sun Channel
+https://primarily-ebooks-eastern-yorkshire.trycloudflare.com/proxy_stream/st_1787582513.m3u8
