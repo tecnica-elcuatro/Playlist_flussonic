@@ -113,6 +113,8 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/canal
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/tnt_novelas.m3u8
 #EXTINF:-1 tvg-id="st_1787582146" tvg-name="Canal de las Estrellas" tvg-logo="" group-title="General",Canal de las Estrellas
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/canal_de_las_estrellas.m3u8
+#EXTINF:-1 tvg-id="st_1787594382" tvg-name="Discovery Kids" tvg-logo="" group-title="General",Discovery Kids
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/discovery_kids.m3u8
 #EXTINF:-1 tvg-id="st_1787582287" tvg-name="TNT Novelas" tvg-logo="" group-title="General",TNT Novelas
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/tnt_novelas.m3u8
 #EXTINF:-1 tvg-id="st_1785949516" tvg-name="Caras TV" tvg-logo="" group-title="General",Caras TV
@@ -135,8 +137,6 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/natge
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/discovery_world.m3u8
 #EXTINF:-1 tvg-id="st_1786450160" tvg-name="Discovery Channel" tvg-logo="" group-title="General",Discovery Channel
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/discovery_channel.m3u8
-#EXTINF:-1 tvg-id="st_1787594382" tvg-name="Discovery Kids" tvg-logo="" group-title="General",Discovery Kids
-https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/discovery_kids.m3u8
 #EXTINF:-1 tvg-id="st_1787588117" tvg-name="Discovery Theater" tvg-logo="" group-title="General",Discovery Theater
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/discovery_theater.m3u8
 #EXTINF:-1 tvg-id="st_1787588162" tvg-name="Discovery Turbo" tvg-logo="" group-title="General",Discovery Turbo
