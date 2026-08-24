@@ -77,6 +77,8 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/hbo_f
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/hbo_signature.m3u8
 #EXTINF:-1 tvg-id="st_1787572742" tvg-name="HBO Xtreme" tvg-logo="" group-title="General",HBO Xtreme
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/hbo_xtreme.m3u8
+#EXTINF:-1 tvg-id="st_1787594774" tvg-name="Canal 7" tvg-logo="" group-title="General",Canal 7
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/canal_7.m3u8
 #EXTINF:-1 tvg-id="st_1787573644" tvg-name="HBO Mundi" tvg-logo="" group-title="General",HBO Mundi
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/hbo_mundi.m3u8
 #EXTINF:-1 tvg-id="st_1787573708" tvg-name="HBO POP" tvg-logo="" group-title="General",HBO POP
@@ -109,8 +111,6 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/tnt_s
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/film_arts.m3u8
 #EXTINF:-1 tvg-id="st_1787581619" tvg-name="USA" tvg-logo="" group-title="General",USA
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/usa.m3u8
-#EXTINF:-1 tvg-id="st_1787594774" tvg-name="Canal 7" tvg-logo="" group-title="General",Canal 7
-https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/canal_7.m3u8
 #EXTINF:-1 tvg-id="st_1786448092" tvg-name="Canal de las Estrellas" tvg-logo="" group-title="General",Canal de las Estrellas
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/canal_de_las_estrellas.m3u8
 #EXTINF:-1 tvg-id="st_1787166340" tvg-name="TNT Novelas" tvg-logo="" group-title="General",TNT Novelas
