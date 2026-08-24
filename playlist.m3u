@@ -35,6 +35,8 @@ https://publisher-filters-one-volt.trycloudflare.com/proxy_stream/st_1785949190.
 #EXTVLCOPT:http-referrer=https://deportes.ksdjugfssddeports.com/
 #EXTINF:-1 tvg-id="st_1787226873" tvg-name="Fox Sports 1" tvg-logo="" group-title="General",Fox Sports 1
 https://publisher-filters-one-volt.trycloudflare.com/proxy_stream/st_1787226873.m3u8
+#EXTINF:-1 tvg-id="st_1787590297" tvg-name="Canal 9" tvg-logo="https://img.youtube.com/vi/e4VpCP8KWLY/hqdefault.jpg" group-title="General",Canal 9
+https://publisher-filters-one-volt.trycloudflare.com/proxy_stream/st_1787590297.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://deportes.ksdjugfssddeports.com/
 #EXTINF:-1 tvg-id="st_1787232183" tvg-name="Fox Sports 2" tvg-logo="" group-title="General",Fox Sports 2
@@ -63,8 +65,6 @@ https://publisher-filters-one-volt.trycloudflare.com/proxy_stream/st_1787155771.
 #EXTVLCOPT:http-referrer=https://deportes.ksdjugfssddeports.com/
 #EXTINF:-1 tvg-id="st_1786451900" tvg-name="ESPN 4" tvg-logo="" group-title="General",ESPN 4
 https://publisher-filters-one-volt.trycloudflare.com/proxy_stream/st_1786451900.m3u8
-#EXTINF:-1 tvg-id="st_1787590297" tvg-name="Canal 9" tvg-logo="https://img.youtube.com/vi/e4VpCP8KWLY/hqdefault.jpg" group-title="General",Canal 9
-https://publisher-filters-one-volt.trycloudflare.com/proxy_stream/st_1787590297.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
 #EXTINF:-1 tvg-id="st_1787156396" tvg-name="TNT Sports Premium" tvg-logo="" group-title="General",TNT Sports Premium
