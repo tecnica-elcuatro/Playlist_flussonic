@@ -149,6 +149,8 @@ https://primarily-ebooks-eastern-yorkshire.trycloudflare.com/proxy_stream/st_178
 https://primarily-ebooks-eastern-yorkshire.trycloudflare.com/proxy_stream/st_1787580447.m3u8
 #EXTINF:-1 tvg-id="st_1787580646" tvg-name="Europa Europa" tvg-logo="" group-title="General",Europa Europa
 https://primarily-ebooks-eastern-yorkshire.trycloudflare.com/proxy_stream/st_1787580646.m3u8
+#EXTINF:-1 tvg-id="st_1787586978" tvg-name="A&E" tvg-logo="" group-title="General",A&E
+https://primarily-ebooks-eastern-yorkshire.trycloudflare.com/proxy_stream/st_1787586978.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
 #EXTINF:-1 tvg-id="st_1786448736" tvg-name="AXN" tvg-logo="" group-title="General",AXN
@@ -181,8 +183,6 @@ https://primarily-ebooks-eastern-yorkshire.trycloudflare.com/proxy_stream/st_178
 #EXTVLCOPT:http-referrer=https://channel01-onlymex.akamaized.net/
 #EXTINF:-1 tvg-id="st_1786448092" tvg-name="Canal de las Estrellas" tvg-logo="" group-title="General",Canal de las Estrellas
 https://primarily-ebooks-eastern-yorkshire.trycloudflare.com/proxy_stream/st_1786448092.m3u8
-#EXTINF:-1 tvg-id="st_1787586978" tvg-name="A&E" tvg-logo="" group-title="General",A&E
-https://primarily-ebooks-eastern-yorkshire.trycloudflare.com/proxy_stream/st_1787586978.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
 #EXTINF:-1 tvg-id="st_1787166340" tvg-name="TNT Novelas" tvg-logo="" group-title="General",TNT Novelas
