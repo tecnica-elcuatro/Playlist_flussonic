@@ -53,6 +53,8 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/disne
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/cartoon_network.m3u8
 #EXTINF:-1 tvg-id="st_1787594382" tvg-name="Discovery Kids" tvg-logo="" group-title="General",Discovery Kids
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/discovery_kids.m3u8
+#EXTINF:-1 tvg-id="st_1787594471" tvg-name="PAKA PAKA" tvg-logo="" group-title="General",PAKA PAKA
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/paka_paka.m3u8
 #EXTINF:-1 tvg-id="st_1786450777" tvg-name="Tooncast" tvg-logo="" group-title="General",Tooncast
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/tooncast.m3u8
 #EXTINF:-1 tvg-id="st_1787594195" tvg-name="Dreamworks" tvg-logo="" group-title="General",Dreamworks
@@ -63,8 +65,6 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/cinec
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/cinemax.m3u8
 #EXTINF:-1 tvg-id="st_1786450499" tvg-name="Golden" tvg-logo="" group-title="General",Golden
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/golden.m3u8
-#EXTINF:-1 tvg-id="st_1787594471" tvg-name="PAKA PAKA" tvg-logo="" group-title="General",PAKA PAKA
-https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/paka_paka.m3u8
 #EXTINF:-1 tvg-id="st_1786450399" tvg-name="TNT" tvg-logo="" group-title="General",TNT
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/tnt.m3u8
 #EXTINF:-1 tvg-id="st_1786450344" tvg-name="Space" tvg-logo="" group-title="General",Space
