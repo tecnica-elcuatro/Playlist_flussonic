@@ -71,6 +71,8 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/hbo_p
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/hbo_family.m3u8
 #EXTINF:-1 tvg-id="st_hbo_signature" tvg-name="HBO Signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Cine y Series",HBO Signature
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/hbo_signature.m3u8
+#EXTINF:-1 tvg-id="st_1787594293" tvg-name="Disney Jr" tvg-logo="" group-title="General",Disney Jr
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/disney_jr.m3u8
 #EXTINF:-1 tvg-id="st_1787572742" tvg-name="HBO Xtreme" tvg-logo="" group-title="General",HBO Xtreme
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/hbo_xtreme.m3u8
 #EXTINF:-1 tvg-id="st_1787573644" tvg-name="HBO Mundi" tvg-logo="" group-title="General",HBO Mundi
@@ -117,8 +119,6 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/tnt_n
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/caras_tv.m3u8
 #EXTINF:-1 tvg-id="st_1787582513" tvg-name="Sun Channel" tvg-logo="" group-title="General",Sun Channel
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/sun_channel.m3u8
-#EXTINF:-1 tvg-id="st_1787594293" tvg-name="Disney Jr" tvg-logo="" group-title="General",Disney Jr
-https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/disney_jr.m3u8
 #EXTINF:-1 tvg-id="st_1787582569" tvg-name="E! Entertaiment" tvg-logo="" group-title="General",E! Entertaiment
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/e_entertaiment.m3u8
 #EXTINF:-1 tvg-id="st_1787586348" tvg-name="Lifetime" tvg-logo="" group-title="General",Lifetime
