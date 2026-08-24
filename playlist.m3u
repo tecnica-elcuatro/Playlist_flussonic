@@ -261,3 +261,7 @@ https://deemed-charms-gregory-gates.trycloudflare.com/proxy_stream/st_1785951789
 https://deemed-charms-gregory-gates.trycloudflare.com/proxy_stream/st_1787579240.m3u8
 #EXTINF:-1 tvg-id="st_1787589848" tvg-name="Space" tvg-logo="" group-title="General",Space
 https://deemed-charms-gregory-gates.trycloudflare.com/proxy_stream/st_1787589848.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://canal7dejujuy.com.ar/
+#EXTINF:-1 tvg-id="st_1787594019" tvg-name="Canal 7 2" tvg-logo="" group-title="General",Canal 7 2
+https://deemed-charms-gregory-gates.trycloudflare.com/proxy_stream/st_1787594019.m3u8
