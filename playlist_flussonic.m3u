@@ -117,6 +117,8 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/sun_c
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/e_entertaiment.m3u8
 #EXTINF:-1 tvg-id="st_1786448464" tvg-name="AMC Series" tvg-logo="" group-title="General",AMC Series
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/amc_series.m3u8
+#EXTINF:-1 tvg-id="st_1787586348" tvg-name="Lifetime" tvg-logo="" group-title="General",Lifetime
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/lifetime.m3u8
 #EXTINF:-1 tvg-id="st_1786447346" tvg-name="History" tvg-logo="" group-title="General",History
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/history.m3u8
 #EXTINF:-1 tvg-id="st_1786447437" tvg-name="History 2" tvg-logo="" group-title="General",History 2
@@ -135,5 +137,3 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/ewtn.
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/canal_luz.m3u8
 #EXTINF:-1 tvg-id="st_1787579240" tvg-name="ESPN Premium" tvg-logo="" group-title="General",ESPN Premium
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/espn_premium.m3u8
-#EXTINF:-1 tvg-id="st_1787586348" tvg-name="Lifetime" tvg-logo="" group-title="General",Lifetime
-https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/lifetime.m3u8
