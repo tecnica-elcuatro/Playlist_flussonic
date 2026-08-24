@@ -195,6 +195,8 @@ https://primarily-ebooks-eastern-yorkshire.trycloudflare.com/proxy_stream/st_178
 https://primarily-ebooks-eastern-yorkshire.trycloudflare.com/proxy_stream/st_1785949516.m3u8
 #EXTINF:-1 tvg-id="st_1787582513" tvg-name="Sun Channel" tvg-logo="" group-title="General",Sun Channel
 https://primarily-ebooks-eastern-yorkshire.trycloudflare.com/proxy_stream/st_1787582513.m3u8
+#EXTINF:-1 tvg-id="st_1787582569" tvg-name="E! Entertaiment" tvg-logo="" group-title="General",E! Entertaiment
+https://primarily-ebooks-eastern-yorkshire.trycloudflare.com/proxy_stream/st_1787582569.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://amc-amcespanol-1-us.plex.wurl.tv/
 #EXTINF:-1 tvg-id="st_1786448464" tvg-name="AMC Series" tvg-logo="" group-title="General",AMC Series
@@ -233,5 +235,3 @@ https://primarily-ebooks-eastern-yorkshire.trycloudflare.com/proxy_stream/st_178
 #EXTVLCOPT:http-referrer=https://deportes.ksdjugfssddeports.com/
 #EXTINF:-1 tvg-id="st_1787579240" tvg-name="ESPN Premium" tvg-logo="" group-title="General",ESPN Premium
 https://primarily-ebooks-eastern-yorkshire.trycloudflare.com/proxy_stream/st_1787579240.m3u8
-#EXTINF:-1 tvg-id="st_1787582569" tvg-name="E! Entertaiment" tvg-logo="" group-title="General",E! Entertaiment
-https://primarily-ebooks-eastern-yorkshire.trycloudflare.com/proxy_stream/st_1787582569.m3u8
