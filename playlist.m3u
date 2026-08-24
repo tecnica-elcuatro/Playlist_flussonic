@@ -227,10 +227,6 @@ https://primarily-ebooks-eastern-yorkshire.trycloudflare.com/proxy_stream/st_178
 https://primarily-ebooks-eastern-yorkshire.trycloudflare.com/proxy_stream/st_1787588599.m3u8
 #EXTINF:-1 tvg-id="st_1787588386" tvg-name="Discovery Science" tvg-logo="" group-title="General",Discovery Science
 https://primarily-ebooks-eastern-yorkshire.trycloudflare.com/proxy_stream/st_1787588386.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
-#EXTINF:-1 tvg-id="st_1786388368" tvg-name="Discovery H&H" tvg-logo="" group-title="General",Discovery H&H
-https://primarily-ebooks-eastern-yorkshire.trycloudflare.com/proxy_stream/st_1786388368.m3u8
 #EXTINF:-1 tvg-id="st_1787588639" tvg-name="Animal Planet" tvg-logo="" group-title="General",Animal Planet
 https://primarily-ebooks-eastern-yorkshire.trycloudflare.com/proxy_stream/st_1787588639.m3u8
 #EXTINF:-1 tvg-id="st_1787589025" tvg-name="TLC" tvg-logo="" group-title="General",TLC
@@ -239,6 +235,10 @@ https://primarily-ebooks-eastern-yorkshire.trycloudflare.com/proxy_stream/st_178
 #EXTVLCOPT:http-referrer=https://geo.dailymotion.com/
 #EXTINF:-1 tvg-id="st_1785950054" tvg-name="Bolivia TV" tvg-logo="" group-title="General",Bolivia TV
 https://primarily-ebooks-eastern-yorkshire.trycloudflare.com/proxy_stream/st_1785950054.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
+#EXTINF:-1 tvg-id="st_1786388368" tvg-name="Discovery H&H" tvg-logo="" group-title="General",Discovery H&H
+https://primarily-ebooks-eastern-yorkshire.trycloudflare.com/proxy_stream/st_1786388368.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://d135ohnuotzzyo.cloudfront.net/
 #EXTINF:-1 tvg-id="st_1785950192" tvg-name="Bolivision" tvg-logo="" group-title="General",Bolivision
