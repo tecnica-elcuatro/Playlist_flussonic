@@ -141,6 +141,8 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/disco
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/discovery_science.m3u8
 #EXTINF:-1 tvg-id="st_1786388368" tvg-name="Discovery H&H" tvg-logo="" group-title="General",Discovery H&H
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/discovery_h_h.m3u8
+#EXTINF:-1 tvg-id="st_1787588639" tvg-name="Animal Planet" tvg-logo="" group-title="General",Animal Planet
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/animal_planet.m3u8
 #EXTINF:-1 tvg-id="st_1785950054" tvg-name="Bolivia TV" tvg-logo="" group-title="General",Bolivia TV
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/bolivia_tv.m3u8
 #EXTINF:-1 tvg-id="st_1785950192" tvg-name="Bolivision" tvg-logo="" group-title="General",Bolivision
@@ -151,5 +153,3 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/ewtn.
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/canal_luz.m3u8
 #EXTINF:-1 tvg-id="st_1787579240" tvg-name="ESPN Premium" tvg-logo="" group-title="General",ESPN Premium
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/espn_premium.m3u8
-#EXTINF:-1 tvg-id="st_1787588639" tvg-name="Animal Planet" tvg-logo="" group-title="General",Animal Planet
-https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/animal_planet.m3u8
