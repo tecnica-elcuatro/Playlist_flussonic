@@ -165,3 +165,5 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/telem
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/ewtn.m3u8
 #EXTINF:-1 tvg-id="st_1785951789" tvg-name="Canal Luz" tvg-logo="https://i.ytimg.com/vi/YpyQFCk7oYc/maxresdefault.jpg" group-title="General",Canal Luz
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/canal_luz.m3u8
+#EXTINF:-1 tvg-id="st_1787594471" tvg-name="PAKA PAKA" tvg-logo="" group-title="General",PAKA PAKA
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/paka_paka.m3u8
