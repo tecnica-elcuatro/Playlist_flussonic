@@ -73,6 +73,8 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/hbo_f
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/hbo_signature.m3u8
 #EXTINF:-1 tvg-id="st_1787572742" tvg-name="HBO Xtreme" tvg-logo="" group-title="General",HBO Xtreme
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/hbo_xtreme.m3u8
+#EXTINF:-1 tvg-id="st_1787573644" tvg-name="HBO Mundi" tvg-logo="" group-title="General",HBO Mundi
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/hbo_mundi.m3u8
 #EXTINF:-1 tvg-id="st_1786448812" tvg-name="AMC" tvg-logo="" group-title="General",AMC
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/amc.m3u8
 #EXTINF:-1 tvg-id="st_1786449478" tvg-name="Studio Universal" tvg-logo="" group-title="General",Studio Universal
@@ -83,8 +85,6 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/fx.m3
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/universal_channel.m3u8
 #EXTINF:-1 tvg-id="st_1786449179" tvg-name="Sony Channel" tvg-logo="" group-title="General",Sony Channel
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/sony_channel.m3u8
-#EXTINF:-1 tvg-id="st_1787573644" tvg-name="HBO Mundi" tvg-logo="" group-title="General",HBO Mundi
-https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/hbo_mundi.m3u8
 #EXTINF:-1 tvg-id="st_1786448736" tvg-name="AXN" tvg-logo="" group-title="General",AXN
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/axn.m3u8
 #EXTINF:-1 tvg-id="st_1786448563" tvg-name="TNT Series" tvg-logo="" group-title="General",TNT Series
