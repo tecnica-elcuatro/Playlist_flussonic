@@ -91,6 +91,8 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/volve
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/europa_europa.m3u8
 #EXTINF:-1 tvg-id="st_1786449478" tvg-name="Studio Universal" tvg-logo="" group-title="General",Studio Universal
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/studio_universal.m3u8
+#EXTINF:-1 tvg-id="st_1787594471" tvg-name="PAKA PAKA" tvg-logo="" group-title="General",PAKA PAKA
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/paka_paka.m3u8
 #EXTINF:-1 tvg-id="st_1786449426" tvg-name="FX" tvg-logo="" group-title="General",FX
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/fx.m3u8
 #EXTINF:-1 tvg-id="st_1786449357" tvg-name="Star Channel" tvg-logo="" group-title="General",Star Channel
@@ -133,8 +135,6 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/histo
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/history_2.m3u8
 #EXTINF:-1 tvg-id="st_1787587724" tvg-name="NatGeo" tvg-logo="" group-title="General",NatGeo
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/natgeo.m3u8
-#EXTINF:-1 tvg-id="st_1787594471" tvg-name="PAKA PAKA" tvg-logo="" group-title="General",PAKA PAKA
-https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/paka_paka.m3u8
 #EXTINF:-1 tvg-id="st_1787587991" tvg-name="Discovery World" tvg-logo="" group-title="General",Discovery World
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/discovery_world.m3u8
 #EXTINF:-1 tvg-id="st_1786450160" tvg-name="Discovery Channel" tvg-logo="" group-title="General",Discovery Channel
