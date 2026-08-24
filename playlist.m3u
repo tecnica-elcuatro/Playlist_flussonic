@@ -155,6 +155,8 @@ https://deemed-charms-gregory-gates.trycloudflare.com/proxy_stream/st_1787580646
 #EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
 #EXTINF:-1 tvg-id="st_1786449478" tvg-name="Studio Universal" tvg-logo="" group-title="General",Studio Universal
 https://deemed-charms-gregory-gates.trycloudflare.com/proxy_stream/st_1786449478.m3u8
+#EXTINF:-1 tvg-id="st_1787594471" tvg-name="PAKA PAKA" tvg-logo="" group-title="General",PAKA PAKA
+https://deemed-charms-gregory-gates.trycloudflare.com/proxy_stream/st_1787594471.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
 #EXTINF:-1 tvg-id="st_1786449426" tvg-name="FX" tvg-logo="" group-title="General",FX
@@ -181,8 +183,6 @@ https://deemed-charms-gregory-gates.trycloudflare.com/proxy_stream/st_1786448736
 #EXTVLCOPT:http-referrer=https://cdn.cvattv.com.ar/
 #EXTINF:-1 tvg-id="st_1786448563" tvg-name="TNT Series" tvg-logo="" group-title="General",TNT Series
 https://deemed-charms-gregory-gates.trycloudflare.com/proxy_stream/st_1786448563.m3u8
-#EXTINF:-1 tvg-id="st_1787594471" tvg-name="PAKA PAKA" tvg-logo="" group-title="General",PAKA PAKA
-https://deemed-charms-gregory-gates.trycloudflare.com/proxy_stream/st_1787594471.m3u8
 #EXTINF:-1 tvg-id="st_1787581542" tvg-name="Film & Arts" tvg-logo="" group-title="General",Film & Arts
 https://deemed-charms-gregory-gates.trycloudflare.com/proxy_stream/st_1787581542.m3u8
 #EXTINF:-1 tvg-id="st_1787581619" tvg-name="USA" tvg-logo="" group-title="General",USA
