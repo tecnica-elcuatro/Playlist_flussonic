@@ -141,6 +141,10 @@ https://world-belkin-bone-curious.trycloudflare.com/proxy_stream/st_1786449276.m
 #EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
 #EXTINF:-1 tvg-id="st_1786449179" tvg-name="Sony Channel" tvg-logo="" group-title="General",Sony Channel
 https://world-belkin-bone-curious.trycloudflare.com/proxy_stream/st_1786449179.m3u8
+#EXTVLCOPT:http-referrer=https://cdn.cvattv.com.ar/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="st_1787572742" tvg-name="HBO Xtreme" tvg-logo="" group-title="General",HBO Xtreme
+https://world-belkin-bone-curious.trycloudflare.com/proxy_stream/st_1787572742.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
 #EXTINF:-1 tvg-id="st_1786448736" tvg-name="AXN" tvg-logo="" group-title="General",AXN
@@ -165,10 +169,6 @@ https://world-belkin-bone-curious.trycloudflare.com/proxy_stream/st_1785949516.m
 #EXTVLCOPT:http-referrer=https://amc-amcespanol-1-us.plex.wurl.tv/
 #EXTINF:-1 tvg-id="st_1786448464" tvg-name="AMC Series" tvg-logo="" group-title="General",AMC Series
 https://world-belkin-bone-curious.trycloudflare.com/proxy_stream/st_1786448464.m3u8
-#EXTVLCOPT:http-referrer=https://cdn.cvattv.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="st_1787572742" tvg-name="HBO Xtreme" tvg-logo="" group-title="General",HBO Xtreme
-https://world-belkin-bone-curious.trycloudflare.com/proxy_stream/st_1787572742.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
 #EXTINF:-1 tvg-id="st_1786447346" tvg-name="History" tvg-logo="" group-title="General",History
