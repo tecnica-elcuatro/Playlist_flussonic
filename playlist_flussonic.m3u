@@ -131,6 +131,8 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/natge
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/discovery_world.m3u8
 #EXTINF:-1 tvg-id="st_1786450160" tvg-name="Discovery Channel" tvg-logo="" group-title="General",Discovery Channel
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/discovery_channel.m3u8
+#EXTINF:-1 tvg-id="st_1787588117" tvg-name="Discovery Theater" tvg-logo="" group-title="General",Discovery Theater
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/discovery_theater.m3u8
 #EXTINF:-1 tvg-id="st_1786388368" tvg-name="Discovery H&H" tvg-logo="" group-title="General",Discovery H&H
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/discovery_h_h.m3u8
 #EXTINF:-1 tvg-id="st_1785950054" tvg-name="Bolivia TV" tvg-logo="" group-title="General",Bolivia TV
@@ -143,5 +145,3 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/ewtn.
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/canal_luz.m3u8
 #EXTINF:-1 tvg-id="st_1787579240" tvg-name="ESPN Premium" tvg-logo="" group-title="General",ESPN Premium
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/espn_premium.m3u8
-#EXTINF:-1 tvg-id="st_1787588117" tvg-name="Discovery Theater" tvg-logo="" group-title="General",Discovery Theater
-https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/discovery_theater.m3u8
