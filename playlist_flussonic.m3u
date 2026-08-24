@@ -163,3 +163,5 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/telem
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/ewtn.m3u8
 #EXTINF:-1 tvg-id="st_1785951789" tvg-name="Canal Luz" tvg-logo="https://i.ytimg.com/vi/YpyQFCk7oYc/maxresdefault.jpg" group-title="General",Canal Luz
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/canal_luz.m3u8
+#EXTINF:-1 tvg-id="st_1787594382" tvg-name="Discovery Kids" tvg-logo="" group-title="General",Discovery Kids
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/discovery_kids.m3u8
