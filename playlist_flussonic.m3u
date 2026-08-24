@@ -85,6 +85,8 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/amc.m
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/tcm.m3u8
 #EXTINF:-1 tvg-id="st_1787580447" tvg-name="Volver" tvg-logo="" group-title="General",Volver
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/volver.m3u8
+#EXTINF:-1 tvg-id="st_1787594382" tvg-name="Discovery Kids" tvg-logo="" group-title="General",Discovery Kids
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/discovery_kids.m3u8
 #EXTINF:-1 tvg-id="st_1787580646" tvg-name="Europa Europa" tvg-logo="" group-title="General",Europa Europa
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/europa_europa.m3u8
 #EXTINF:-1 tvg-id="st_1786449478" tvg-name="Studio Universal" tvg-logo="" group-title="General",Studio Universal
@@ -113,8 +115,6 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/canal
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/tnt_novelas.m3u8
 #EXTINF:-1 tvg-id="st_1787582146" tvg-name="Canal de las Estrellas" tvg-logo="" group-title="General",Canal de las Estrellas
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/canal_de_las_estrellas.m3u8
-#EXTINF:-1 tvg-id="st_1787594382" tvg-name="Discovery Kids" tvg-logo="" group-title="General",Discovery Kids
-https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/discovery_kids.m3u8
 #EXTINF:-1 tvg-id="st_1787582287" tvg-name="TNT Novelas" tvg-logo="" group-title="General",TNT Novelas
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/tnt_novelas.m3u8
 #EXTINF:-1 tvg-id="st_1785949516" tvg-name="Caras TV" tvg-logo="" group-title="General",Caras TV
