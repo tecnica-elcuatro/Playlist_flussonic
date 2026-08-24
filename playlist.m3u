@@ -255,3 +255,5 @@ https://allen-excel-accessible-origin.trycloudflare.com/proxy_stream/st_17859517
 #EXTVLCOPT:http-referrer=https://deportes.ksdjugfssddeports.com/
 #EXTINF:-1 tvg-id="st_1787579240" tvg-name="ESPN Premium" tvg-logo="" group-title="General",ESPN Premium
 https://allen-excel-accessible-origin.trycloudflare.com/proxy_stream/st_1787579240.m3u8
+#EXTINF:-1 tvg-id="st_1787589262" tvg-name="TVE" tvg-logo="" group-title="General",TVE
+https://allen-excel-accessible-origin.trycloudflare.com/proxy_stream/st_1787589262.m3u8
