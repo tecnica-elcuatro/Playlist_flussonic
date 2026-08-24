@@ -119,6 +119,8 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/sun_c
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/e_entertaiment.m3u8
 #EXTINF:-1 tvg-id="st_1787586348" tvg-name="Lifetime" tvg-logo="" group-title="General",Lifetime
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/lifetime.m3u8
+#EXTINF:-1 tvg-id="st_1787594195" tvg-name="Dreamworks" tvg-logo="" group-title="General",Dreamworks
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/dreamworks.m3u8
 #EXTINF:-1 tvg-id="st_1787587273" tvg-name="Encuentro" tvg-logo="" group-title="General",Encuentro
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/encuentro.m3u8
 #EXTINF:-1 tvg-id="st_1786447346" tvg-name="History" tvg-logo="" group-title="General",History
@@ -129,8 +131,6 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/histo
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/natgeo.m3u8
 #EXTINF:-1 tvg-id="st_1787587991" tvg-name="Discovery World" tvg-logo="" group-title="General",Discovery World
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/discovery_world.m3u8
-#EXTINF:-1 tvg-id="st_1787594195" tvg-name="Dreamworks" tvg-logo="" group-title="General",Dreamworks
-https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/dreamworks.m3u8
 #EXTINF:-1 tvg-id="st_1786450160" tvg-name="Discovery Channel" tvg-logo="" group-title="General",Discovery Channel
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/discovery_channel.m3u8
 #EXTINF:-1 tvg-id="st_1787588117" tvg-name="Discovery Theater" tvg-logo="" group-title="General",Discovery Theater
