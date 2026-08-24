@@ -63,6 +63,8 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/cinec
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/cinemax.m3u8
 #EXTINF:-1 tvg-id="st_1786450499" tvg-name="Golden" tvg-logo="" group-title="General",Golden
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/golden.m3u8
+#EXTINF:-1 tvg-id="st_1787594471" tvg-name="PAKA PAKA" tvg-logo="" group-title="General",PAKA PAKA
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/paka_paka.m3u8
 #EXTINF:-1 tvg-id="st_1786450399" tvg-name="TNT" tvg-logo="" group-title="General",TNT
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/tnt.m3u8
 #EXTINF:-1 tvg-id="st_1786450344" tvg-name="Space" tvg-logo="" group-title="General",Space
@@ -91,8 +93,6 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/volve
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/europa_europa.m3u8
 #EXTINF:-1 tvg-id="st_1786449478" tvg-name="Studio Universal" tvg-logo="" group-title="General",Studio Universal
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/studio_universal.m3u8
-#EXTINF:-1 tvg-id="st_1787594471" tvg-name="PAKA PAKA" tvg-logo="" group-title="General",PAKA PAKA
-https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/paka_paka.m3u8
 #EXTINF:-1 tvg-id="st_1786449426" tvg-name="FX" tvg-logo="" group-title="General",FX
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/fx.m3u8
 #EXTINF:-1 tvg-id="st_1786449357" tvg-name="Star Channel" tvg-logo="" group-title="General",Star Channel
