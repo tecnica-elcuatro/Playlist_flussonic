@@ -263,3 +263,5 @@ https://allen-excel-accessible-origin.trycloudflare.com/proxy_stream/st_17875792
 https://allen-excel-accessible-origin.trycloudflare.com/proxy_stream/st_1787589563.m3u8
 #EXTINF:-1 tvg-id="st_1787589848" tvg-name="Space" tvg-logo="" group-title="General",Space
 https://allen-excel-accessible-origin.trycloudflare.com/proxy_stream/st_1787589848.m3u8
+#EXTINF:-1 tvg-id="st_1787590297" tvg-name="Canal 9" tvg-logo="https://img.youtube.com/vi/e4VpCP8KWLY/hqdefault.jpg" group-title="General",Canal 9
+https://allen-excel-accessible-origin.trycloudflare.com/proxy_stream/st_1787590297.m3u8
