@@ -83,6 +83,8 @@ https://publisher-filters-one-volt.trycloudflare.com/proxy_stream/st_1786451410.
 #EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
 #EXTINF:-1 tvg-id="st_1786450777" tvg-name="Tooncast" tvg-logo="" group-title="General",Tooncast
 https://publisher-filters-one-volt.trycloudflare.com/proxy_stream/st_1786450777.m3u8
+#EXTINF:-1 tvg-id="st_1787590297" tvg-name="Canal 9" tvg-logo="https://img.youtube.com/vi/e4VpCP8KWLY/hqdefault.jpg" group-title="General",Canal 9
+https://publisher-filters-one-volt.trycloudflare.com/proxy_stream/st_1787590297.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
 #EXTINF:-1 tvg-id="st_1786450671" tvg-name="Cinecanal" tvg-logo="" group-title="General",Cinecanal
@@ -103,8 +105,6 @@ https://publisher-filters-one-volt.trycloudflare.com/proxy_stream/st_1786450399.
 #EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
 #EXTINF:-1 tvg-id="st_1786450344" tvg-name="Space" tvg-logo="" group-title="General",Space
 https://publisher-filters-one-volt.trycloudflare.com/proxy_stream/st_1786450344.m3u8
-#EXTINF:-1 tvg-id="st_1787590297" tvg-name="Canal 9" tvg-logo="https://img.youtube.com/vi/e4VpCP8KWLY/hqdefault.jpg" group-title="General",Canal 9
-https://publisher-filters-one-volt.trycloudflare.com/proxy_stream/st_1787590297.m3u8
 #EXTVLCOPT:http-referrer=https://cdn.cvattv.com.ar/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="st_1787572269" tvg-name="HBO 2" tvg-logo="" group-title="General",HBO 2
