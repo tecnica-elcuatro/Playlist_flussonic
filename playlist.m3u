@@ -239,6 +239,8 @@ https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787588599.m3u8
 https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787588386.m3u8
 #EXTINF:-1 tvg-id="st_1787588639" tvg-name="Animal Planet" tvg-logo="" group-title="General",Animal Planet
 https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787588639.m3u8
+#EXTINF:-1 tvg-id="st_1787681731" tvg-name="Canal 9" tvg-logo="" group-title="General",Canal 9
+https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787681731.m3u8
 #EXTINF:-1 tvg-id="st_1787589025" tvg-name="TLC" tvg-logo="" group-title="General",TLC
 https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787589025.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -265,5 +267,3 @@ https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787589352.m3u8
 https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1785951727.m3u8
 #EXTINF:-1 tvg-id="st_1785951789" tvg-name="Canal Luz" tvg-logo="https://i.ytimg.com/vi/YpyQFCk7oYc/maxresdefault.jpg" group-title="General",Canal Luz
 https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1785951789.m3u8
-#EXTINF:-1 tvg-id="st_1787681731" tvg-name="Canal 9" tvg-logo="" group-title="General",Canal 9
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787681731.m3u8
