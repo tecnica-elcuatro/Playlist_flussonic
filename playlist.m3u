@@ -189,6 +189,8 @@ https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1786448563.m3u8
 https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787581542.m3u8
 #EXTINF:-1 tvg-id="st_1787581619" tvg-name="USA" tvg-logo="" group-title="General",USA
 https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787581619.m3u8
+#EXTINF:-1 tvg-id="st_1787681731" tvg-name="Canal 9" tvg-logo="" group-title="General",Canal 9
+https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787681731.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://channel01-onlymex.akamaized.net/
 #EXTINF:-1 tvg-id="st_1786448092" tvg-name="Canal de las Estrellas" tvg-logo="" group-title="General",Canal de las Estrellas
@@ -207,8 +209,6 @@ https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787582287.m3u8
 https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1785949516.m3u8
 #EXTINF:-1 tvg-id="st_1787582513" tvg-name="Sun Channel" tvg-logo="" group-title="General",Sun Channel
 https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787582513.m3u8
-#EXTINF:-1 tvg-id="st_1787681731" tvg-name="Canal 9" tvg-logo="" group-title="General",Canal 9
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787681731.m3u8
 #EXTINF:-1 tvg-id="st_1787582569" tvg-name="E! Entertaiment" tvg-logo="" group-title="General",E! Entertaiment
 https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787582569.m3u8
 #EXTINF:-1 tvg-id="st_1787586348" tvg-name="Lifetime" tvg-logo="" group-title="General",Lifetime
