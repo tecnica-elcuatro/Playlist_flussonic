@@ -57,6 +57,8 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/disco
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/paka_paka.m3u8
 #EXTINF:-1 tvg-id="st_1786450777" tvg-name="Tooncast" tvg-logo="" group-title="General",Tooncast
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/tooncast.m3u8
+#EXTINF:-1 tvg-id="st_1787681731" tvg-name="Canal 9" tvg-logo="" group-title="General",Canal 9
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/canal_9.m3u8
 #EXTINF:-1 tvg-id="st_1787594195" tvg-name="Dreamworks" tvg-logo="" group-title="General",Dreamworks
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/dreamworks.m3u8
 #EXTINF:-1 tvg-id="st_1786450671" tvg-name="Cinecanal" tvg-logo="" group-title="General",Cinecanal
@@ -111,8 +113,6 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/tnt_s
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/film_arts.m3u8
 #EXTINF:-1 tvg-id="st_1787581619" tvg-name="USA" tvg-logo="" group-title="General",USA
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/usa.m3u8
-#EXTINF:-1 tvg-id="st_1787681731" tvg-name="Canal 9" tvg-logo="" group-title="General",Canal 9
-https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/canal_9.m3u8
 #EXTINF:-1 tvg-id="st_1786448092" tvg-name="Canal de las Estrellas" tvg-logo="" group-title="General",Canal de las Estrellas
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/canal_de_las_estrellas.m3u8
 #EXTINF:-1 tvg-id="st_1787166340" tvg-name="TNT Novelas" tvg-logo="" group-title="General",TNT Novelas
