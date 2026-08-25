@@ -127,6 +127,8 @@ https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787572474.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="st_1787572577" tvg-name="HBO Family" tvg-logo="" group-title="General",HBO Family
 https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787572577.m3u8
+#EXTINF:-1 tvg-id="st_1787681731" tvg-name="Canal 9" tvg-logo="" group-title="General",Canal 9
+https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787681731.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bestleague.life/
 #EXTINF:-1 tvg-id="st_hbo_signature" tvg-name="HBO Signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Cine y Series",HBO Signature
@@ -153,8 +155,6 @@ https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1786448812.m3u8
 https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787577931.m3u8
 #EXTINF:-1 tvg-id="st_1787580447" tvg-name="Volver" tvg-logo="" group-title="General",Volver
 https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787580447.m3u8
-#EXTINF:-1 tvg-id="st_1787681731" tvg-name="Canal 9" tvg-logo="" group-title="General",Canal 9
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787681731.m3u8
 #EXTINF:-1 tvg-id="st_1787580646" tvg-name="Europa Europa" tvg-logo="" group-title="General",Europa Europa
 https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787580646.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
