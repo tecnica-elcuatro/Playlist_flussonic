@@ -85,6 +85,8 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/hbo_m
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/hbo_pop.m3u8
 #EXTINF:-1 tvg-id="st_1786448812" tvg-name="AMC" tvg-logo="" group-title="General",AMC
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/amc.m3u8
+#EXTINF:-1 tvg-id="st_1787921764" tvg-name="Fox Sports  1" tvg-logo="" group-title="General",Fox Sports  1
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/fox_sports_1.m3u8
 #EXTINF:-1 tvg-id="st_1787577931" tvg-name="TCM" tvg-logo="" group-title="General",TCM
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/tcm.m3u8
 #EXTINF:-1 tvg-id="st_1787580447" tvg-name="Volver" tvg-logo="" group-title="General",Volver
@@ -123,8 +125,6 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/tnt_n
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/caras_tv.m3u8
 #EXTINF:-1 tvg-id="st_1787582513" tvg-name="Sun Channel" tvg-logo="" group-title="General",Sun Channel
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/sun_channel.m3u8
-#EXTINF:-1 tvg-id="st_1787921764" tvg-name="Fox Sports  1" tvg-logo="" group-title="General",Fox Sports  1
-https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/fox_sports_1.m3u8
 #EXTINF:-1 tvg-id="st_1787582569" tvg-name="E! Entertaiment" tvg-logo="" group-title="General",E! Entertaiment
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/e_entertaiment.m3u8
 #EXTINF:-1 tvg-id="st_1787586348" tvg-name="Lifetime" tvg-logo="" group-title="General",Lifetime
