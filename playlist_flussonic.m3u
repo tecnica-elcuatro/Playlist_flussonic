@@ -47,6 +47,8 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/tnt_s
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/espn_premium.m3u8
 #EXTINF:-1 tvg-id="st_1787594293" tvg-name="Disney Jr" tvg-logo="" group-title="General",Disney Jr
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/disney_jr.m3u8
+#EXTINF:-1 tvg-id="st_1787921882" tvg-name="Fox Sports 2" tvg-logo="" group-title="General",Fox Sports 2
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/fox_sports_2.m3u8
 #EXTINF:-1 tvg-id="st_1786451488" tvg-name="Disney Channel" tvg-logo="" group-title="General",Disney Channel
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/disney_channel.m3u8
 #EXTINF:-1 tvg-id="st_1786451410" tvg-name="Cartoon Network" tvg-logo="" group-title="General",Cartoon Network
@@ -91,8 +93,6 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/tcm.m
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/volver.m3u8
 #EXTINF:-1 tvg-id="st_1787580646" tvg-name="Europa Europa" tvg-logo="" group-title="General",Europa Europa
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/europa_europa.m3u8
-#EXTINF:-1 tvg-id="st_1787921882" tvg-name="Fox Sports 2" tvg-logo="" group-title="General",Fox Sports 2
-https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/fox_sports_2.m3u8
 #EXTINF:-1 tvg-id="st_1786449478" tvg-name="Studio Universal" tvg-logo="" group-title="General",Studio Universal
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/studio_universal.m3u8
 #EXTINF:-1 tvg-id="st_1786449426" tvg-name="FX" tvg-logo="" group-title="General",FX
