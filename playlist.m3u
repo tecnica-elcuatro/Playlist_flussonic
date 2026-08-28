@@ -197,6 +197,10 @@ https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1786448092.m3u8
 #EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
 #EXTINF:-1 tvg-id="st_1787166340" tvg-name="TNT Novelas" tvg-logo="" group-title="General",TNT Novelas
 https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787166340.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfssddeports.com/
+#EXTINF:-1 tvg-id="st_1787921882" tvg-name="Fox Sports 2" tvg-logo="" group-title="General",Fox Sports 2
+https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787921882.m3u8
 #EXTINF:-1 tvg-id="st_1787582146" tvg-name="Canal de las Estrellas" tvg-logo="" group-title="General",Canal de las Estrellas
 https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787582146.m3u8
 #EXTINF:-1 tvg-id="st_1787582287" tvg-name="TNT Novelas" tvg-logo="" group-title="General",TNT Novelas
@@ -211,10 +215,6 @@ https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787582513.m3u8
 https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787582569.m3u8
 #EXTINF:-1 tvg-id="st_1787586348" tvg-name="Lifetime" tvg-logo="" group-title="General",Lifetime
 https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787586348.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfssddeports.com/
-#EXTINF:-1 tvg-id="st_1787921882" tvg-name="Fox Sports 2" tvg-logo="" group-title="General",Fox Sports 2
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787921882.m3u8
 #EXTINF:-1 tvg-id="st_1787587273" tvg-name="Encuentro" tvg-logo="" group-title="General",Encuentro
 https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787587273.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
