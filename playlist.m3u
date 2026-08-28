@@ -115,6 +115,10 @@ https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1786450399.m3u8
 #EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
 #EXTINF:-1 tvg-id="st_1786450344" tvg-name="Space" tvg-logo="" group-title="General",Space
 https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1786450344.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfssddeports.com/
+#EXTINF:-1 tvg-id="st_1787921882" tvg-name="Fox Sports 2" tvg-logo="" group-title="General",Fox Sports 2
+https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787921882.m3u8
 #EXTVLCOPT:http-referrer=https://cdn.cvattv.com.ar/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="st_1787572269" tvg-name="HBO 2" tvg-logo="" group-title="General",HBO 2
@@ -135,10 +139,6 @@ https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_hbo_signature.m3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="st_1787572742" tvg-name="HBO Xtreme" tvg-logo="" group-title="General",HBO Xtreme
 https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787572742.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfssddeports.com/
-#EXTINF:-1 tvg-id="st_1787921882" tvg-name="Fox Sports 2" tvg-logo="" group-title="General",Fox Sports 2
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787921882.m3u8
 #EXTVLCOPT:http-referrer=https://cdn.cvattv.com.ar/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="st_1787573644" tvg-name="HBO Mundi" tvg-logo="" group-title="General",HBO Mundi
