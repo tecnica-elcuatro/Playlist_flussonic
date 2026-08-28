@@ -265,3 +265,5 @@ https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787589352.m3u8
 https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1785951727.m3u8
 #EXTINF:-1 tvg-id="st_1785951789" tvg-name="Canal Luz" tvg-logo="https://i.ytimg.com/vi/YpyQFCk7oYc/maxresdefault.jpg" group-title="General",Canal Luz
 https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1785951789.m3u8
+#EXTINF:-1 tvg-id="st_1787921431" tvg-name="HBO" tvg-logo="" group-title="General",HBO
+https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787921431.m3u8
