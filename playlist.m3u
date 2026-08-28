@@ -41,16 +41,16 @@ https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1785949190.m3u8
 https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787921764.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://deportes.ksdjugfssddeports.com/
+#EXTINF:-1 tvg-id="st_1787921882" tvg-name="Fox Sports 2" tvg-logo="" group-title="General",Fox Sports 2
+https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787921882.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfssddeports.com/
 #EXTINF:-1 tvg-id="st_1786452297" tvg-name="Fox Sports 3" tvg-logo="" group-title="General",Fox Sports 3
 https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1786452297.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://deportes.ksdjugfssddeports.com/
 #EXTINF:-1 tvg-id="st_1786452173" tvg-name="TyC Sports" tvg-logo="" group-title="General",TyC Sports
 https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1786452173.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfssddeports.com/
-#EXTINF:-1 tvg-id="st_1787921882" tvg-name="Fox Sports 2" tvg-logo="" group-title="General",Fox Sports 2
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787921882.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://deportes.ksdjugfssddeports.com/
 #EXTINF:-1 tvg-id="st_1786452115" tvg-name="ESPN" tvg-logo="" group-title="General",ESPN
