@@ -91,6 +91,8 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/tcm.m
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/volver.m3u8
 #EXTINF:-1 tvg-id="st_1787580646" tvg-name="Europa Europa" tvg-logo="" group-title="General",Europa Europa
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/europa_europa.m3u8
+#EXTINF:-1 tvg-id="st_1787921882" tvg-name="Fox Sports 2" tvg-logo="" group-title="General",Fox Sports 2
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/fox_sports_2.m3u8
 #EXTINF:-1 tvg-id="st_1786449478" tvg-name="Studio Universal" tvg-logo="" group-title="General",Studio Universal
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/studio_universal.m3u8
 #EXTINF:-1 tvg-id="st_1786449426" tvg-name="FX" tvg-logo="" group-title="General",FX
@@ -137,8 +139,6 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/histo
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/natgeo.m3u8
 #EXTINF:-1 tvg-id="st_1787587991" tvg-name="Discovery World" tvg-logo="" group-title="General",Discovery World
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/discovery_world.m3u8
-#EXTINF:-1 tvg-id="st_1787921882" tvg-name="Fox Sports 2" tvg-logo="" group-title="General",Fox Sports 2
-https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/fox_sports_2.m3u8
 #EXTINF:-1 tvg-id="st_1786450160" tvg-name="Discovery Channel" tvg-logo="" group-title="General",Discovery Channel
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/discovery_channel.m3u8
 #EXTINF:-1 tvg-id="st_1787588117" tvg-name="Discovery Theater" tvg-logo="" group-title="General",Discovery Theater
