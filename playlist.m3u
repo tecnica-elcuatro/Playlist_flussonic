@@ -1,267 +1,48 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="st_1785947006" tvg-name="A24" tvg-logo="https://i.ytimg.com/vi/ArKbAx1K-2U/maxresdefault.jpg" group-title="General",A24
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1785947006.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1789158115/ei/gw6kasfgGdaZsfIPgImfmAo/ip/74.220.48.219/id/ArKbAx1K-2U.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-nx57ynz7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AR3QkAkI5oCZdvEaSXX84B8lyChb-Sn8XPfmFJ2VvBeG0vIsgCegn7PZlEMQMOVbGPVm4peDvcrDfjX2/spc/I-rgIf0BR5CEipEjJrURdq2eFdy8m-bBGKNQ2FcL2FkJdz4nYjrd38SRIA/vprv/1/ns/9KFz6w5VZ48yUJf7E1gOVIYY/reg/0/playlist_type/DVR/met/1789136531,/mh/C8/mm/44/mn/sn-nx57ynz7/ms/lva/mv/u/mvi/3/pl/24/rms/lva,lva/dover/11/pacing/0/epbp/1/keepalive/yes/fexp/51565115,52135441/n/XDkViPuxPhkDzQ/mt/1789136193/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,ns,reg,playlist_type/sig/AE0s2JYwRgIhAOooTEKAjQzfbodjY9eQOC-s-uRJBo3lV1ilCGEymDrFAiEA9uiyniEpCgr_UklCvNmhMD2Qni-tB4-bmS4Q3iRxoRs%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgfGAEjV6A8AnsxfnLP4FlYjeU5ZcU1swJcXo3pMkOOOcCICWxdm_LoJE3rMB-dKo5s31oRa08C2cHl5FFzzAV8IMA/playlist/index.m3u8
 #EXTINF:-1 tvg-id="st_1785947448" tvg-name="Cronica" tvg-logo="https://i.ytimg.com/vi/hw4uHyct4vg/maxresdefault.jpg" group-title="General",Cronica
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1785947448.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vmf.edge-apps.net/
-#EXTINF:-1 tvg-id="st_1785956789" tvg-name="Canal 26" tvg-logo="" group-title="General",Canal 26
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1785956789.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1789158140/ei/nA6kar-pJ8uYsfIP7smIwQY/ip/74.220.48.219/id/hw4uHyct4vg.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-2onx5c-5w.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AR3QkAnqx6ImYH4mo618dhPN5x8fKPo4tXRkKPpQddHVVh3liqBCetMksmnD0eRWFBgN6ZppLOeHBOpt/spc/I-rgIb_5O7EtRzs_kn5IHGr-Nt__lPW3tLln9DZROX8otYt5TFp1VQlDUQ/vprv/1/ns/uPvIQhrlIfo1sboioF4IVCYY/reg/0/playlist_type/DVR/met/1789136554,/mh/B7/mm/44/mn/sn-2onx5c-5w/ms/lva/mv/u/mvi/5/pl/24/rms/lva,lva/dover/11/pacing/0/epbp/1/keepalive/yes/fexp/51565115,52135441/n/PLF5wAlVUEOqFg/mt/1789136193/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,ns,reg,playlist_type/sig/AE0s2JYwRQIgMOZZdvxJOy4Iwbzs_DKw9X3s_VmfKVX1gYmTE8kQi0oCIQDlUYQhmmGgLL-IQweEiGkHood2yRJGklw2K2hsr_ODHg%3D%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAJ1JGxgkTrEz0esOk9rSjwIlMT6XwbVc8MGp1PWx_TuoAiAZgBwqZ8blcs1CUoGqUC78RLcNXUY_EV5N6Bsq-zGayA%3D%3D/playlist/index.m3u8
 #EXTINF:-1 tvg-id="st_1785947633" tvg-name="C5N" tvg-logo="https://i.ytimg.com/vi/j6oh4Kqz3UM/maxresdefault.jpg" group-title="General",C5N
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1785947633.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1789158163/ei/sw6kav6KM72-sfIP2bmieA/ip/74.220.48.219/id/j6oh4Kqz3UM.2~45744973/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-nx57ynsy.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/ss/1/bui/AR3QkAn3uDqcMblwcSHVe_wMS7legbVMNN1Tek--AONmjFYEjLpwDgozOppbB_yAO4ULR1Ax9NzotVnO/spc/I-rgIcuD0JETFCrsRa5W6yV7SkpGqBYNjHeV6I1IB2NFm03HwBFaqzXJug/vprv/1/ns/aj2bGudYiL3NLuKKLqlB_UsY/reg/0/playlist_type/LIVE/met/1789136579,/mh/QR/mm/44/mn/sn-nx57ynsy/ms/lva/mv/u/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/epbp/1/keepalive/yes/fexp/51565115,52135441/n/YYe2dZVN2do3hQ/mt/1789136193/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,ss,bui,spc,vprv,ns,reg,playlist_type/sig/AE0s2JYwRgIhAMdrICDEoCU06zomZvJJmhJ9JoRmczyLW3yhy4LHQjM4AiEA1XkhTSpkwTvx6u1mRnW0ge3C27wNVEKmWsj7RpoJAm4%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhALqomh-27s8GIvTgFNGwlzI05nQyzFRGPI3xxabNmExEAiA9Qc0IyA6abWdZUXpevkFEkYOdUaDLoF5fekAZfqt0ug%3D%3D/playlist/index.m3u8
 #EXTINF:-1 tvg-id="st_1785947908" tvg-name="TN" tvg-logo="https://i.ytimg.com/vi/cb12KmMMDJA/maxresdefault.jpg" group-title="General",TN
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1785947908.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1789158188/ei/zA6katS7MIPdy_sP46TGqQg/ip/74.220.48.219/id/cb12KmMMDJA.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-nx57ynsr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AR3QkAlQUGNZDVBcTo10_QFTSBdswDsCNbtqMSFWHDUDU26woZ_MhwQEt6XFDmwaar8eTictbCZOUFYq/spc/I-rgIco53djfdAm7us38PN38-SkYhB5psqmzNoSfGmCDo4MzEtwi2tiuPA/vprv/1/ns/KDPcFtJ0vClXNtiv-d-e7aAY/reg/0/playlist_type/DVR/met/1789136602,/mh/o5/mm/44/mn/sn-nx57ynsr/ms/lva/mv/u/mvi/4/pl/24/rms/lva,lva/dover/11/pacing/0/epbp/1/keepalive/yes/fexp/51565115,52135441/n/srEU9HtvQDpGRw/mt/1789136193/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,ns,reg,playlist_type/sig/AE0s2JYwRAIgNRrOEGcAc6yHy7C_AEfby-dG26pwT7lOqaGypK4vvpECIAYxya3AzbORw53FKGg7XeNPX2mNUNyQrOWZGDeAKrfX/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhALgtp5j-7z7Gix7FoDLef_r1vccAcLGiunJ0QYwRfO3uAiADqmjZVw5VMC6NFNQpsAzpPvMW9o7cC_nt17H80BIe3A%3D%3D/playlist/index.m3u8
 #EXTINF:-1 tvg-id="st_1785947971" tvg-name="LN+" tvg-logo="https://i.ytimg.com/vi/FEWZjXJ7M0c/maxresdefault.jpg" group-title="General",LN+
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1785947971.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1789158212/ei/5A6kap7bBZeZsfIP_auL4AE/ip/74.220.48.219/id/fMHYoIkvffI.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-2onx5c-5p.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/bui/AR3QkAlioygoILpByMyJ8iHU2rKMoMp5l-V4JOWInY9BHSe1Y7ls-PBUxoQv8jDQPiiIaaUixAtqTNnE/spc/I-rgIfojkWieLmvujs1qw5X7yj-7PuvjNu458fLs3oJgw5Llz7e6SdTFNg/vprv/1/ns/1Ea2ankJLKkMjHS_1QVnzzMY/reg/0/playlist_type/DVR/met/1789136625,/mh/gr/mm/44/mn/sn-2onx5c-5p/ms/lva/mv/u/mvi/3/pl/24/rms/lva,lva/dover/11/pacing/0/epbp/1/keepalive/yes/fexp/51565115,52135441/n/2ccMAa72CrZfwQ/mt/1789136193/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,bui,spc,vprv,ns,reg,playlist_type/sig/AE0s2JYwRAIgDi3Pe0_jcz5K5rLotCrkExtBvhVTPtXMBxN6IIuYDacCIApwcL9IH_vXYN_eQwp6dd8LRB-KsyIP7xdILJFkTOMN/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAJwRILBeWoBvOgpqpCzkT2Q3kTILm4zMt13EZt3v2pF8AiEAkEylybsVz_9N4XEUZuSSMs61s5C8WDRGHS0B7lRrUxQ%3D/playlist/index.m3u8
 #EXTINF:-1 tvg-id="st_1785948131" tvg-name="Argentina 12" tvg-logo="https://i.ytimg.com/vi/21UP3XoRIBU/hqdefault.jpg?v=6a60c834" group-title="General",Argentina 12
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1785948131.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://stream.arcast.live/
-#EXTINF:-1 tvg-id="st_1787594774" tvg-name="Canal 7" tvg-logo="" group-title="General",Canal 7
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787594774.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vmf.edge-apps.net/
-#EXTINF:-1 tvg-id="st_1785956575" tvg-name="TV Publica" tvg-logo="" group-title="General",TV Publica
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1785956575.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1789158234/ei/-g6kasiIHb2KsfIPtoe02Aw/ip/74.220.48.219/id/21UP3XoRIBU.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-nx57ynz7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/bui/AR3QkAkyJ_Idm6uIg5Sk_88CyJlX0Ykv7aFRIB4NVUatzTO4bqNEeE0K0nR_O8QDqbbx4hIRHbcPoi0n/spc/I-rgIcGhoofK6f2JE7RiYfCXXvEAzVziVq8UBi6UYSPBj660JBv89JF-fA/vprv/1/ns/67cHP5XGKxgMpbTWsSpy944Y/reg/0/playlist_type/DVR/met/1789136649,/mh/Ni/mm/44/mn/sn-nx57ynz7/ms/lva/mv/u/mvi/5/pl/24/rms/lva,lva/dover/11/pacing/0/epbp/1/keepalive/yes/fexp/51565115,52135441/n/jzWUUsrO3J3Eug/mt/1789136193/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,bui,spc,vprv,ns,reg,playlist_type/sig/AE0s2JYwRQIgOTggiaHPHitXBMmZb0lhwWuTyi95dqPzualwKM4orcgCIQCLrB0qeIvK1BnT4ZgxPuH-Vk3KISTcT9gy4N5tZTZscg%3D%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgfgFtMIOfHELoWHFHwI4XlbQRUrqbzKfVpnLRSmj8XzoCIQC4ZZxyYNX9PxdwMYysrK5tg-QOQt1cUzE70zfoy0Goig%3D%3D/playlist/index.m3u8
+#EXTINF:-1 tvg-id="st_1785948688" tvg-name="Canal 7" tvg-logo="https://i.ytimg.com/vi/U6B-mlnL2tg/maxresdefault.jpg" group-title="General",Canal 7
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1789158259/ei/Ew-kasvLE4P9sfIP8tr-uAw/ip/74.220.48.219/id/G7goYdoWKAE.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr3---sn-nx57ynz7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AR3QkAkWHXgqDnsjlRWCvYKdHtXnwse6tKwsYucGQBzdJcRJPiMw70cj5eMo8ZG6tZQSqEh1paPAl0dD/spc/I-rgIVNo1N3Oh3whmvYnQtK8dkUqfl6Hu6VZlQiw0BV0mVz4U-Wqe4wi9g/vprv/1/ns/0TzLnhx4r8HLuU5rEiLfqLYY/reg/0/playlist_type/DVR/met/1789136673,/mh/CF/mm/44/mn/sn-nx57ynz7/ms/lva/mv/u/mvi/3/pl/24/rms/lva,lva/dover/11/pacing/0/epbp/1/keepalive/yes/fexp/51565115,52135441/n/M6kQ3TBydMHq5w/mt/1789136193/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,ns,reg,playlist_type/sig/AE0s2JYwRgIhAIuVzmYPogbUUcGdUSCqdABwUmUzAIiUcfh-_KLQDu9mAiEAsRYvknfZTbslqBq-2HV3wal8tJZw37Y9dr56TTrMgtI%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgCsg7lIr82It0byKBgqzWVOyGhIUeLifWmT4T0jLTdGcCIQCuquUf7heKakdqpYMJuYTVbhpK8WcX2TGa8sNJi9AowA%3D%3D/playlist/index.m3u8
 #EXTINF:-1 tvg-id="st_1785948739" tvg-name="Canal 4" tvg-logo="https://i.ytimg.com/vi/p0LtEMx4BrA/maxresdefault.jpg" group-title="General",Canal 4
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1785948739.m3u8
-#EXTINF:-1 tvg-id="st_1787681731" tvg-name="Canal 9" tvg-logo="" group-title="General",Canal 9
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787681731.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
-#EXTINF:-1 tvg-id="st_1786452512" tvg-name="Canal 13" tvg-logo="" group-title="General",Canal 13
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1786452512.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1789158283/ei/Kw-kauvDI9j2sfIP-I3M4Qk/ip/74.220.48.219/id/jt4k-0QVBk8.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-nx57ynsr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/bui/AR3QkAlZpNVAgPbeOL2pyjWDD1ZOC1cuS1zssSTL4Au3Y-TfuBpuY1F0Cm4J_nCacSwPwhu8McfYDLis/spc/I-rgIQIb8TDbmuHP71ZSaKILEd2akDOik0cXfZCD2hFfoeqQemBPJSuiNg/vprv/1/ns/fHlCbBYsRw6VKASNlH8W09sY/reg/0/playlist_type/DVR/met/1789136698,/mh/fQ/mm/44/mn/sn-nx57ynsr/ms/lva/mv/u/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/epbp/1/keepalive/yes/fexp/51565115,52135441/n/XK_Sc9SGh2sbeg/mt/1789136193/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,bui,spc,vprv,ns,reg,playlist_type/sig/AE0s2JYwRAIgIC200vyR-kOLx1WrAQJF50Q2FJH-BldonDYsWiVILzcCIFLS6Dmo0WJ9RqRJ9Y9d-6fOAMLlcC4O0jBai6J77A1Y/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhANvi4hgJV_1jgwSMSwysOHTe2IbR9K6SiINc0kXGl77OAiB7npmLfzovDc7csBwSVcNK_4UNk2G5R6doOFL0mW1tzw%3D%3D/playlist/index.m3u8
+#EXTINF:-1 tvg-id="st_1785948938" tvg-name="Canal 13" tvg-logo="https://i.ytimg.com/vi/gbz9TgxOT1Q/maxresdefault.jpg" group-title="General",Canal 13
+https://extractor-m3u8.onrender.com/proxy_stream/st_1785948938.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net/
 #EXTINF:-1 tvg-id="st_1785949190" tvg-name="America TV" tvg-logo="" group-title="General",America TV
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1785949190.m3u8
+https://extractor-m3u8.onrender.com/proxy_stream/st_1785949190.m3u8
+#EXTINF:-1 tvg-id="st_1785949318" tvg-name="Canal 9" tvg-logo="https://i.ytimg.com/vi/e4VpCP8KWLY/maxresdefault.jpg" group-title="General",Canal 9
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1789158320/ei/UA-katKYEaaRsfIPvPDlkAg/ip/74.220.48.219/id/e4VpCP8KWLY.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-nx57ynz7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/bui/AR3QkAndXUag7o5wXICRZ6LJw4MYFAWU_KMBbTExIO3kcwtnDv413cVb7NZSd2qqoq-Q3rw_92yucTM0/spc/I-rgIYzaaBp29Q8VnsZ-B_hxTaCOxGBTYLoeBiF_q16Cv12F-vKlGMjxnA/vprv/1/ns/BJ6BwZwM7ZE8EtuUKrI9h9QY/reg/0/playlist_type/DVR/met/1789136733,/mh/5g/mm/44/mn/sn-nx57ynz7/ms/lva/mv/u/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/epbp/1/keepalive/yes/fexp/51565115,52135441/n/crUCIASH4Rl_5g/mt/1789136193/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,bui,spc,vprv,ns,reg,playlist_type/sig/AE0s2JYwRAIgM1Kb53oz1KarzOufrFw_YPcExwAgnDgc1ELjeYvJOWACICuhfkVC91K4EP13Jnh1gVtbSSnRconi6uADTciazi83/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhALtEOzvfRW35DXKpe2P5buyLh343n3ZeKuNH1NbMjYrsAiEAjqyuAum1pzYBuWGaE4JFwNWrthGgcDyD8597i-d-s8U%3D/playlist/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfssddeports.com/
-#EXTINF:-1 tvg-id="st_1787921764" tvg-name="Fox Sports  1" tvg-logo="" group-title="General",Fox Sports  1
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787921764.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfssddeports.com/
-#EXTINF:-1 tvg-id="st_1787921882" tvg-name="Fox Sports 2" tvg-logo="" group-title="General",Fox Sports 2
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787921882.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfssddeports.com/
-#EXTINF:-1 tvg-id="st_1786452297" tvg-name="Fox Sports 3" tvg-logo="" group-title="General",Fox Sports 3
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1786452297.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfssddeports.com/
-#EXTINF:-1 tvg-id="st_1786452173" tvg-name="TyC Sports" tvg-logo="" group-title="General",TyC Sports
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1786452173.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfssddeports.com/
-#EXTINF:-1 tvg-id="st_1786452115" tvg-name="ESPN" tvg-logo="" group-title="General",ESPN
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1786452115.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfssddeports.com/
-#EXTINF:-1 tvg-id="st_1786452074" tvg-name="ESPN 2" tvg-logo="" group-title="General",ESPN 2
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1786452074.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfssddeports.com/
-#EXTINF:-1 tvg-id="st_1787155771" tvg-name="ESPN 3" tvg-logo="" group-title="General",ESPN 3
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787155771.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfssddeports.com/
-#EXTINF:-1 tvg-id="st_1786451900" tvg-name="ESPN 4" tvg-logo="" group-title="General",ESPN 4
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1786451900.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
-#EXTINF:-1 tvg-id="st_1787156396" tvg-name="TNT Sports Premium" tvg-logo="" group-title="General",TNT Sports Premium
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787156396.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://deportes.ksdjugfssddeports.com/
-#EXTINF:-1 tvg-id="st_1787156705" tvg-name="ESPN Premium" tvg-logo="" group-title="General",ESPN Premium
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787156705.m3u8
-#EXTINF:-1 tvg-id="st_1787594293" tvg-name="Disney Jr" tvg-logo="" group-title="General",Disney Jr
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787594293.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
-#EXTINF:-1 tvg-id="st_1786451488" tvg-name="Disney Channel" tvg-logo="" group-title="General",Disney Channel
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1786451488.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
-#EXTINF:-1 tvg-id="st_1786451410" tvg-name="Cartoon Network" tvg-logo="" group-title="General",Cartoon Network
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1786451410.m3u8
-#EXTINF:-1 tvg-id="st_1787594382" tvg-name="Discovery Kids" tvg-logo="" group-title="General",Discovery Kids
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787594382.m3u8
-#EXTINF:-1 tvg-id="st_1787594471" tvg-name="PAKA PAKA" tvg-logo="" group-title="General",PAKA PAKA
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787594471.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
-#EXTINF:-1 tvg-id="st_1786450777" tvg-name="Tooncast" tvg-logo="" group-title="General",Tooncast
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1786450777.m3u8
-#EXTINF:-1 tvg-id="st_1787594195" tvg-name="Dreamworks" tvg-logo="" group-title="General",Dreamworks
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787594195.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
-#EXTINF:-1 tvg-id="st_1786450671" tvg-name="Cinecanal" tvg-logo="" group-title="General",Cinecanal
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1786450671.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
-#EXTINF:-1 tvg-id="st_1786450610" tvg-name="Cinemax" tvg-logo="" group-title="General",Cinemax
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1786450610.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
-#EXTINF:-1 tvg-id="st_1786450499" tvg-name="Golden" tvg-logo="" group-title="General",Golden
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1786450499.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
-#EXTINF:-1 tvg-id="st_1786450399" tvg-name="TNT" tvg-logo="" group-title="General",TNT
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1786450399.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
-#EXTINF:-1 tvg-id="st_1786450344" tvg-name="Space" tvg-logo="" group-title="General",Space
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1786450344.m3u8
-#EXTVLCOPT:http-referrer=https://cdn.cvattv.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="st_1787572269" tvg-name="HBO 2" tvg-logo="" group-title="General",HBO 2
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787572269.m3u8
-#EXTVLCOPT:http-referrer=https://cdn.cvattv.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="st_1787572474" tvg-name="HBO Plus" tvg-logo="" group-title="General",HBO Plus
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787572474.m3u8
-#EXTVLCOPT:http-referrer=https://cdn.cvattv.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="st_1787572577" tvg-name="HBO Family" tvg-logo="" group-title="General",HBO Family
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787572577.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bestleague.life/
-#EXTINF:-1 tvg-id="st_hbo_signature" tvg-name="HBO Signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Cine y Series",HBO Signature
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_hbo_signature.m3u8
-#EXTVLCOPT:http-referrer=https://cdn.cvattv.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="st_1787572742" tvg-name="HBO Xtreme" tvg-logo="" group-title="General",HBO Xtreme
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787572742.m3u8
-#EXTVLCOPT:http-referrer=https://cdn.cvattv.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="st_1787573644" tvg-name="HBO Mundi" tvg-logo="" group-title="General",HBO Mundi
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787573644.m3u8
-#EXTVLCOPT:http-referrer=https://cdn.cvattv.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="st_1787573708" tvg-name="HBO POP" tvg-logo="" group-title="General",HBO POP
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787573708.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
-#EXTINF:-1 tvg-id="st_1786448812" tvg-name="AMC" tvg-logo="" group-title="General",AMC
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1786448812.m3u8
-#EXTVLCOPT:http-referrer=https://cdn.cvattv.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="st_1787577931" tvg-name="TCM" tvg-logo="" group-title="General",TCM
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787577931.m3u8
-#EXTINF:-1 tvg-id="st_1787580447" tvg-name="Volver" tvg-logo="" group-title="General",Volver
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787580447.m3u8
-#EXTINF:-1 tvg-id="st_1787580646" tvg-name="Europa Europa" tvg-logo="" group-title="General",Europa Europa
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787580646.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
-#EXTINF:-1 tvg-id="st_1786449478" tvg-name="Studio Universal" tvg-logo="" group-title="General",Studio Universal
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1786449478.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
-#EXTINF:-1 tvg-id="st_1786449426" tvg-name="FX" tvg-logo="" group-title="General",FX
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1786449426.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
-#EXTINF:-1 tvg-id="st_1786449357" tvg-name="Star Channel" tvg-logo="" group-title="General",Star Channel
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1786449357.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
-#EXTINF:-1 tvg-id="st_1786449276" tvg-name="Universal Channel" tvg-logo="" group-title="General",Universal Channel
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1786449276.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
-#EXTINF:-1 tvg-id="st_1786449179" tvg-name="Sony Channel" tvg-logo="" group-title="General",Sony Channel
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1786449179.m3u8
-#EXTINF:-1 tvg-id="st_1787586978" tvg-name="A&E" tvg-logo="" group-title="General",A&E
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787586978.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
-#EXTINF:-1 tvg-id="st_1786448736" tvg-name="AXN" tvg-logo="" group-title="General",AXN
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1786448736.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cdn.cvattv.com.ar/
-#EXTINF:-1 tvg-id="st_1786448563" tvg-name="TNT Series" tvg-logo="" group-title="General",TNT Series
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1786448563.m3u8
-#EXTINF:-1 tvg-id="st_1787581542" tvg-name="Film & Arts" tvg-logo="" group-title="General",Film & Arts
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787581542.m3u8
-#EXTINF:-1 tvg-id="st_1787581619" tvg-name="USA" tvg-logo="" group-title="General",USA
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787581619.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://channel01-onlymex.akamaized.net/
-#EXTINF:-1 tvg-id="st_1786448092" tvg-name="Canal de las Estrellas" tvg-logo="" group-title="General",Canal de las Estrellas
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1786448092.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
-#EXTINF:-1 tvg-id="st_1787166340" tvg-name="TNT Novelas" tvg-logo="" group-title="General",TNT Novelas
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787166340.m3u8
-#EXTINF:-1 tvg-id="st_1787582146" tvg-name="Canal de las Estrellas" tvg-logo="" group-title="General",Canal de las Estrellas
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787582146.m3u8
-#EXTINF:-1 tvg-id="st_1787582287" tvg-name="TNT Novelas" tvg-logo="" group-title="General",TNT Novelas
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787582287.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://unlimited1-saopaulo.dps.live/
 #EXTINF:-1 tvg-id="st_1785949516" tvg-name="Caras TV" tvg-logo="" group-title="General",Caras TV
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1785949516.m3u8
-#EXTINF:-1 tvg-id="st_1787582513" tvg-name="Sun Channel" tvg-logo="" group-title="General",Sun Channel
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787582513.m3u8
-#EXTINF:-1 tvg-id="st_1787582569" tvg-name="E! Entertaiment" tvg-logo="" group-title="General",E! Entertaiment
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787582569.m3u8
-#EXTINF:-1 tvg-id="st_1787586348" tvg-name="Lifetime" tvg-logo="" group-title="General",Lifetime
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787586348.m3u8
-#EXTINF:-1 tvg-id="st_1787587273" tvg-name="Encuentro" tvg-logo="" group-title="General",Encuentro
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787587273.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
-#EXTINF:-1 tvg-id="st_1786447346" tvg-name="History" tvg-logo="" group-title="General",History
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1786447346.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cdn.cvattv.com.ar/
-#EXTINF:-1 tvg-id="st_1786447437" tvg-name="History 2" tvg-logo="" group-title="General",History 2
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1786447437.m3u8
-#EXTINF:-1 tvg-id="st_1787587724" tvg-name="NatGeo" tvg-logo="" group-title="General",NatGeo
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787587724.m3u8
-#EXTINF:-1 tvg-id="st_1787587991" tvg-name="Discovery World" tvg-logo="" group-title="General",Discovery World
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787587991.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
-#EXTINF:-1 tvg-id="st_1786450160" tvg-name="Discovery Channel" tvg-logo="" group-title="General",Discovery Channel
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1786450160.m3u8
-#EXTINF:-1 tvg-id="st_1787588117" tvg-name="Discovery Theater" tvg-logo="" group-title="General",Discovery Theater
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787588117.m3u8
-#EXTINF:-1 tvg-id="st_1787588162" tvg-name="Discovery Turbo" tvg-logo="" group-title="General",Discovery Turbo
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787588162.m3u8
-#EXTINF:-1 tvg-id="st_1787588599" tvg-name="Discovery ID" tvg-logo="" group-title="General",Discovery ID
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787588599.m3u8
-#EXTINF:-1 tvg-id="st_1787588386" tvg-name="Discovery Science" tvg-logo="" group-title="General",Discovery Science
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787588386.m3u8
-#EXTINF:-1 tvg-id="st_1787588639" tvg-name="Animal Planet" tvg-logo="" group-title="General",Animal Planet
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787588639.m3u8
-#EXTINF:-1 tvg-id="st_1787589025" tvg-name="TLC" tvg-logo="" group-title="General",TLC
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787589025.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://regionales.saohgdassregions.com/
-#EXTINF:-1 tvg-id="st_1786388368" tvg-name="Discovery H&H" tvg-logo="" group-title="General",Discovery H&H
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1786388368.m3u8
-#EXTINF:-1 tvg-id="st_1787589138" tvg-name="Food Network" tvg-logo="" group-title="General",Food Network
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787589138.m3u8
-#EXTINF:-1 tvg-id="st_1787589262" tvg-name="TVE" tvg-logo="" group-title="General",TVE
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787589262.m3u8
+https://extractor-m3u8.onrender.com/proxy_stream/st_1785949516.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://geo.dailymotion.com/
 #EXTINF:-1 tvg-id="st_1785950054" tvg-name="Bolivia TV" tvg-logo="" group-title="General",Bolivia TV
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1785950054.m3u8
+https://extractor-m3u8.onrender.com/proxy_stream/st_1785950054.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://d135ohnuotzzyo.cloudfront.net/
 #EXTINF:-1 tvg-id="st_1785950192" tvg-name="Bolivision" tvg-logo="" group-title="General",Bolivision
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1785950192.m3u8
-#EXTINF:-1 tvg-id="st_1787589352" tvg-name="Telemundo" tvg-logo="" group-title="General",Telemundo
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1787589352.m3u8
+https://extractor-m3u8.onrender.com/proxy_stream/st_1785950192.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cdn3.wowza.com/
 #EXTINF:-1 tvg-id="st_1785951727" tvg-name="EWTN" tvg-logo="" group-title="General",EWTN
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1785951727.m3u8
+https://extractor-m3u8.onrender.com/proxy_stream/st_1785951727.m3u8
 #EXTINF:-1 tvg-id="st_1785951789" tvg-name="Canal Luz" tvg-logo="https://i.ytimg.com/vi/YpyQFCk7oYc/maxresdefault.jpg" group-title="General",Canal Luz
-https://extractor-proxy.tecnica-f28.workers.dev/proxy_stream/st_1785951789.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1789158366/ei/fg-kaqH6ErybsfIP_P7ryQI/ip/74.220.48.219/id/YpyQFCk7oYc.17/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-nx57ynsy.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/bui/AR3QkAloMtnlVvWVuWj63BOxnXZOnGPoSBlKXGSud99cwjkNPWAMZv_D-YO0jJzaEcJcFsPc0ysGewLD/spc/I-rgIQHqO-ahZ5TR3QM-pKS_rSM1RKItId8S1-SghBiprHZME70fW_LpaQ/vprv/1/ns/SY-VmcChdhlxw1ytP8mxSKQY/reg/0/playlist_type/DVR/met/1789136780,/mh/Zs/mm/44/mn/sn-nx57ynsy/ms/lva/mv/u/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/epbp/1/keepalive/yes/fexp/51565115,52135441/n/Gi0bFxqp_CkdwA/mt/1789136193/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,bui,spc,vprv,ns,reg,playlist_type/sig/AE0s2JYwRQIgO30tv5RlWvPP5_NnLdQ-bgFN3mf2Cgo33EzqC6aSzpACIQCZGwQtmtgA5q21ak7lCfEnJugnFunGt_KSe8Hnlunqfw%3D%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAPRxU3WY7Nl42CwrSoObdBpcgHpM6U0u9zX-hxVHQsXlAiByj2dd6I3-6bSqPkBVeN4kS38aPcnqdc2JKDNXMN1j8w%3D%3D/playlist/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vmf.edge-apps.net/
+#EXTINF:-1 tvg-id="st_1785956575" tvg-name="TV Publica" tvg-logo="" group-title="General",TV Publica
+https://extractor-m3u8.onrender.com/proxy_stream/st_1785956575.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vmf.edge-apps.net/
+#EXTINF:-1 tvg-id="st_1785956789" tvg-name="Canal 26" tvg-logo="" group-title="General",Canal 26
+https://extractor-m3u8.onrender.com/proxy_stream/st_1785956789.m3u8
