@@ -15,3 +15,31 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/ln.m3
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/argentina_12.m3u8
 #EXTINF:-1 tvg-id="st_1787594774" tvg-name="Canal 7" tvg-logo="" group-title="General",Canal 7
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/canal_7.m3u8
+#EXTINF:-1 tvg-id="st_1785956575" tvg-name="TV Publica" tvg-logo="" group-title="General",TV Publica
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/tv_publica.m3u8
+#EXTINF:-1 tvg-id="st_1785948739" tvg-name="Canal 4" tvg-logo="https://i.ytimg.com/vi/p0LtEMx4BrA/maxresdefault.jpg" group-title="General",Canal 4
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/canal_4.m3u8
+#EXTINF:-1 tvg-id="st_1787681731" tvg-name="Canal 9" tvg-logo="" group-title="General",Canal 9
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/canal_9.m3u8
+#EXTINF:-1 tvg-id="st_1786452512" tvg-name="Canal 13" tvg-logo="" group-title="General",Canal 13
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/canal_13.m3u8
+#EXTINF:-1 tvg-id="st_1785949190" tvg-name="America TV" tvg-logo="" group-title="General",America TV
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/america_tv.m3u8
+#EXTINF:-1 tvg-id="st_1787921764" tvg-name="Fox Sports  1" tvg-logo="" group-title="General",Fox Sports  1
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/fox_sports_1.m3u8
+#EXTINF:-1 tvg-id="st_1787921882" tvg-name="Fox Sports 2" tvg-logo="" group-title="General",Fox Sports 2
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/fox_sports_2.m3u8
+#EXTINF:-1 tvg-id="st_1786452297" tvg-name="Fox Sports 3" tvg-logo="" group-title="General",Fox Sports 3
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/fox_sports_3.m3u8
+#EXTINF:-1 tvg-id="st_1786452173" tvg-name="TyC Sports" tvg-logo="" group-title="General",TyC Sports
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/tyc_sports.m3u8
+#EXTINF:-1 tvg-id="st_1786452115" tvg-name="ESPN" tvg-logo="" group-title="General",ESPN
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/espn.m3u8
+#EXTINF:-1 tvg-id="st_1786452074" tvg-name="ESPN 2" tvg-logo="" group-title="General",ESPN 2
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/espn_2.m3u8
+#EXTINF:-1 tvg-id="st_1787155771" tvg-name="ESPN 3" tvg-logo="" group-title="General",ESPN 3
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/espn_3.m3u8
+#EXTINF:-1 tvg-id="st_1786451900" tvg-name="ESPN 4" tvg-logo="" group-title="General",ESPN 4
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/espn_4.m3u8
+#EXTINF:-1 tvg-id="st_1787156396" tvg-name="TNT Sports Premium" tvg-logo="" group-title="General",TNT Sports Premium
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/tnt_sports_premium.m3u8
