@@ -143,3 +143,5 @@ https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/disco
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/discovery_theater.m3u8
 #EXTINF:-1 tvg-id="st_1787588162" tvg-name="Discovery Turbo" tvg-logo="" group-title="General",Discovery Turbo
 https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/discovery_turbo.m3u8
+#EXTINF:-1 tvg-id="st_1787588599" tvg-name="Discovery ID" tvg-logo="" group-title="General",Discovery ID
+https://raw.githubusercontent.com/tecnica-elcuatro/Playlist_flussonic/main/discovery_id.m3u8
